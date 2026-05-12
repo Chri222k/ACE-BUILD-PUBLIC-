@@ -3,7 +3,7 @@
 A add-on to the Base Akaneia Mod Which Aims to Includes Every currently Released characters and Some Newcomers making there first Public Debut In ACE in one big melee Build for Fun. 
 
 Also if your looking for a place to hangout meet new people or play the build with others or just vibe here our ACE Discord Server
-https://discord.com/channels/1431752762194001963/1472332837859496182/1503629901776027769
+https://discord.gg/AwmmEPQmtG
 
 
 
