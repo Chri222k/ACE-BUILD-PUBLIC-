@@ -1,0 +1,104 @@
+{
+  "name": "Wario",
+  "fileName": "wario.ssm",
+  "groupFlags": 67240705,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_wario"
+    },
+    {
+      "name": "se_wario_atk1"
+    },
+    {
+      "name": "se_wario_atk2"
+    },
+    {
+      "name": "se_wario_atk3"
+    },
+    {
+      "name": "se_wario_atk4"
+    },
+    {
+      "name": "se_wario_atk5"
+    },
+    {
+      "name": "se_wario_gake"
+    },
+    {
+      "name": "se_wario_shbash"
+    },
+    {
+      "name": "se_wario_hosikie"
+    },
+    {
+      "name": "se_wario_hura"
+    },
+    {
+      "name": "se_wario_jump"
+    },
+    {
+      "name": "se_wario_jump2"
+    },
+    {
+      "name": "se_wario_appeal"
+    },
+    {
+      "name": "se_wario_motiage"
+    },
+    {
+      "name": "se_wario_nemuru"
+    },
+    {
+      "name": "se_wario_nemuru2"
+    },
+    {
+      "name": "se_wario_otto"
+    },
+    {
+      "name": "se_wario_rakka4"
+    },
+    {
+      "name": "se_wario_garp"
+    },
+    {
+      "name": "se_wario_yarare"
+    },
+    {
+      "name": "se_wario_huttobi"
+    },
+    {
+      "name": "se_wario_recov"
+    },
+    {
+      "name": "se_wario_spin"
+    },
+    {
+      "name": "se_wario_clap"
+    },
+    {
+      "name": "se_wario_garp"
+    },
+    {
+      "name": "se_wario_rotten"
+    },
+    {
+      "name": "se_wario_goodluck"
+    },
+    {
+      "name": "se_wario_giant"
+    },
+    {
+      "name": "se_wario_win3"
+    },
+    {
+      "name": "se_wario_win2"
+    },
+    {
+      "name": "se_wario_win"
+    },
+    {
+      "name": "se_kirby_cp_wario"
+    }
+  ]
+}
