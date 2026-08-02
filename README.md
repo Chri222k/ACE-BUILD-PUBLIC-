@@ -1,6 +1,6 @@
 # SMASH ACE-BUILD ([Click here to see the credits](https://docs.google.com/document/d/1Gf4D1QfHeXMQQrJpcbCatRuUmxijvP8ON1clqmF6uEU/edit?pli=1&tab=t.0))
 
-An add-on to the Base ACE Mod, which aims to include every currently released character and some newcomers making their first public debut in ACE in one big melee build for fun. 
+An add-on to the Base ACE Mod that aims to include every currently released character, plus some newcomers making their first public debut in ACE, in one big melee build for fun. 
 Please note that we're not part of or affiliated with the official ACE Team. This is a free, fun build for those who want all of the characters in one place.
 
 Want to stay up to date on announcements, or looking to hang out and play some matches with the build? Join the [Smash ACE Discord Server](https://discord.gg/AwmmEPQmtG)
@@ -11,7 +11,7 @@ Want to stay up to date on announcements, or looking to hang out and play some m
 
 ### Patching the ISO 
 
-To apply the ACE build patch, you will first need a clean *Super Smash Bros. Melee v1.2* ISO (MD5: `0e63d4223b01d9aba596259dc155a174`). 
+To apply the ACE build patch, you will first need a clean *Super Smash Bros. Melee v1.0.2* ISO (MD5: `0e63d4223b01d9aba596259dc155a174`). 
 
 You can download the latest patch release from:  
 https://github.com/Chri222k/ACE-BUILD-PUBLIC-/releases  
