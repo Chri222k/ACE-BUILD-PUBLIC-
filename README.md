@@ -1,4 +1,4 @@
-# SMASH ACE-BUILD ([Click here to see the credits](https://docs.google.com/document/d/1Gf4D1QfHeXMQQrJpcbCatRuUmxijvP8ON1clqmF6uEU/edit?pli=1&tab=t.0))
+# SMASH ACE-BUILD ([Click here to see the credits](https://docs.google.com/document/d/1m0DIOM_SJPpdXK8RnRdILWkGwqJpeXtd4Y4GpjjC3Zg/edit?tab=t.0))
 
 An add-on to the Base ACE Mod that aims to include every currently released character, plus some newcomers making their first public debut in ACE, in one big melee build for fun. 
 Please note that we're not part of or affiliated with the official ACE Team. This is a free, fun build for those who want all of the characters in one place.
