@@ -1,110 +1,125 @@
 {
-  "name": "SMewtwo",
-  "fileName": "smewtwo.ssm",
-  "groupFlags": 67240705,
-  "flags": 1,
+  "name": "Shadow",
+  "fileName": "shadow.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
   "sounds": [
     {
-      "name": "se_call_mewtwo"
+      "name": "se_call_bonus"
     },
     {
-      "name": "se_mewtwo_tail_atk_s"
+      "name": "se_shadow_jump0"
     },
     {
-      "name": "se_mewtwo_psi_throw"
+      "name": "se_shadow_jump1"
     },
     {
-      "name": "se_mewtwo_psi_sita"
+      "name": "se_shadow_spin0"
     },
     {
-      "name": "se_mewtwo_psi_ue"
+      "name": "se_shadow_spin1"
     },
     {
-      "name": "se_mewtwo_psi_uki"
+      "name": "se_shadow_stop"
     },
     {
-      "name": "se_mewtwo_fire1"
+      "name": "se_shadow_charge"
     },
     {
-      "name": "v_smewtwo_appeal"
+      "name": "se_shadow_chaoscontrol"
     },
     {
-      "name": "v_smewtwo_atk1"
+      "name": "se_shadow_Nshoot"
     },
     {
-      "name": "v_smewtwo_atk2"
+      "name": "se_shadow_Nhit"
     },
     {
-      "name": "v_smewtwo_atk3"
+      "name": "se_shadow_ring"
     },
     {
-      "name": "v_smewtwo_atk4"
+      "name": "v_shadow_atk1"
     },
     {
-      "name": "v_smewtwo_atk5"
+      "name": "v_shadow_atk2"
     },
     {
-      "name": "v_smewtwo_atk6"
+      "name": "v_shadow_atk3"
     },
     {
-      "name": "v_smewtwo_atk7"
+      "name": "v_shadow_atk4"
     },
     {
-      "name": "v_smewtwo_hosikie"
+      "name": "v_shadow_atk5"
     },
     {
-      "name": "v_smewtwo_hura"
+      "name": "v_shadow_gake"
     },
     {
-      "name": "v_smewtwo_huttboi1"
+      "name": "v_shadow_hissatu"
     },
     {
-      "name": "v_smewtwo_huttboi2"
+      "name": "v_shadow_hosikie"
     },
     {
-      "name": "v_smewtwo_kati1"
+      "name": "v_shadow_hura"
     },
     {
-      "name": "v_smewtwo_kati2"
+      "name": "v_shadow_jump"
     },
     {
-      "name": "v-smewtwo_motiage"
+      "name": "v_shadow_jump2"
     },
     {
-      "name": "v-smewtwo_nemuru"
+      "name": "v_shadow_appeal"
     },
     {
-      "name": "v-smewtwo_rakka4"
+      "name": "v_shadow_motiage"
     },
     {
-      "name": "v-smewtwo-saiko"
+      "name": "v_shadow_nemuru"
     },
     {
-      "name": "v-smewtwo-yarare"
+      "name": "v_shadow_nemuru2"
     },
     {
-      "name": "se_smewtwo_fire_swing"
+      "name": "v_shadow_otto"
     },
     {
-      "name": "se_smewtwo_Ice_swing"
+      "name": "v_shadow_rakka4"
     },
     {
-      "name": "se_smewtwo_light_pillar_start"
+      "name": "v_shadow_win1"
     },
     {
-      "name": "se_smewtwo_light_pillar_end"
+      "name": "v_shadow_yarare"
     },
     {
-      "name": "se_smewtwo_up_special"
+      "name": "v_shadow_huttobi1"
     },
     {
-      "name": "se_smewtwo_mega_ready"
+      "name": "v_shadow_huttobi2"
     },
     {
-      "name": "se_smewtwo_mega_lost"
+      "name": "v_shadow_kirby"
     },
     {
-      "name": "se_smewtwo_mega_start"
+      "name": "se_shadow_cloop"
+    },
+    {
+      "name": "se_shadow_chargeloop"
+    },
+    {
+      "name": "se_shadow_appealjump"
+    },
+    {
+      "name": "se_shadow_nb"
+    },
+    {
+      "name": "v_shadow_win2"
+    },
+    {
+      "name": "v_shadow_win3"
     }
   ]
 }

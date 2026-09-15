@@ -1,17 +1,17 @@
 {
   "name": "Wario",
-  "seriesID": 6,
+  "seriesID": 18,
   "canWallJump": true,
   "subCharacter": -1,
   "subCharacterBehavior": 0,
   "soundBank": 78,
   "ssmBitfield1": 0,
   "ssmBitfield2": 0,
-  "announcerCall": 510059,
-  "victoryTheme": 207,
-  "fighterMusic1": 0,
-  "fighterMusic2": 0,
-  "targetTestStage": 349,
+  "announcerCall": 510062,
+  "victoryTheme": 175,
+  "fighterMusic1": 143,
+  "fighterMusic2": 143,
+  "targetTestStage": 313,
   "classicTrophyId": 0,
   "adventureTrophyId": 1,
   "allStarTrophyId": 2,
@@ -109,7 +109,7 @@
   "greenCostumeIndex": 5,
   "costumes": [
     {
-      "name": "PlWrNr",
+      "name": "Neutral",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -121,7 +121,7 @@
       "csp": "csp\\csp_214"
     },
     {
-      "name": "PlWrPi",
+      "name": "Pink",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -133,7 +133,7 @@
       "csp": "csp\\csp_215"
     },
     {
-      "name": "PlWrRe",
+      "name": "Red",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -145,7 +145,7 @@
       "csp": "csp\\csp_216"
     },
     {
-      "name": "PlWrAq",
+      "name": "Aqua",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -157,7 +157,7 @@
       "csp": "csp\\csp_217"
     },
     {
-      "name": "PlWrLa",
+      "name": "Lavender",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -169,7 +169,7 @@
       "csp": "csp\\csp_218"
     },
     {
-      "name": "PlWrGr",
+      "name": "Green",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -181,7 +181,7 @@
       "csp": "csp\\csp_219"
     },
     {
-      "name": "PlWrWh",
+      "name": "White",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -193,7 +193,7 @@
       "csp": "csp\\csp_220"
     },
     {
-      "name": "PlWrBr",
+      "name": "Brown",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,

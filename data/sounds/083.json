@@ -1,158 +1,113 @@
 {
-  "name": "Fay",
-  "fileName": "fay.ssm",
-  "groupFlags": 67240708,
+  "name": "Dr. Luigi",
+  "fileName": "drluigi.ssm",
+  "groupFlags": 67240706,
   "flags": 1,
   "sounds": [
     {
-      "name": "Sound_000"
+      "name": "se_call_drluigi"
     },
     {
-      "name": "Sound_001"
+      "name": "se_drluigi_demo1"
     },
     {
-      "name": "Sound_002"
+      "name": "se_drluigi_2big"
     },
     {
-      "name": "Sound_003"
+      "name": "se_drluigi_dokan"
     },
     {
-      "name": "Sound_004"
+      "name": "se_drluigi_fire_dasi"
     },
     {
-      "name": "Sound_005"
+      "name": "se_drluigi_sjp_hit"
     },
     {
-      "name": "Sound_006"
+      "name": "se_drluigi_sjp_jump"
     },
     {
-      "name": "Sound_007"
+      "name": "se_drluigi_spin"
     },
     {
-      "name": "Sound_008"
+      "name": "se_drluigi_spin2"
     },
     {
-      "name": "Sound_009"
+      "name": "se_drluigi_mant"
     },
     {
-      "name": "Sound_010"
+      "name": "se_drluigi_fireball"
     },
     {
-      "name": "Sound_011"
+      "name": "se_drluigi_giant"
     },
     {
-      "name": "Sound_012"
+      "name": "se_drluigi_zuzukitame"
     },
     {
-      "name": "Sound_013"
+      "name": "se_drluigi_zuzuki"
     },
     {
-      "name": "Sound_014"
+      "name": "se_drluigi_zuzuki_sp"
     },
     {
-      "name": "Sound_015"
+      "name": "v_drluigi_atk1"
     },
     {
-      "name": "Sound_016"
+      "name": "v_drluigi_atk2"
     },
     {
-      "name": "Sound_017"
+      "name": "v_drluigi_atk3"
     },
     {
-      "name": "Sound_018"
+      "name": "v_drluigi_atk4"
     },
     {
-      "name": "Sound_019"
+      "name": "v_drluigi_atk5"
     },
     {
-      "name": "Sound_020"
+      "name": "v_drluigi_gake"
     },
     {
-      "name": "Sound_021"
+      "name": "v_drluigi_hissatu"
     },
     {
-      "name": "Sound_022"
+      "name": "v_drluigi_hosikie"
     },
     {
-      "name": "Sound_023"
+      "name": "v_drluigi_hura"
     },
     {
-      "name": "Sound_024"
+      "name": "v_drluigi_jump"
     },
     {
-      "name": "Sound_025"
+      "name": "v_drluigi_jump2"
     },
     {
-      "name": "Sound_026"
+      "name": "v_drluigi_kirifuda"
     },
     {
-      "name": "Sound_027"
+      "name": "v_drluigi_motiage"
     },
     {
-      "name": "Sound_028"
+      "name": "v_drluigi_nemuru"
     },
     {
-      "name": "Sound_029"
+      "name": "v_drluigi_nemuru2"
     },
     {
-      "name": "Sound_030"
+      "name": "v_drluigi_otto"
     },
     {
-      "name": "Sound_031"
+      "name": "v_drluigi_rakka4"
     },
     {
-      "name": "Sound_032"
+      "name": "v_drluigi_yarare"
     },
     {
-      "name": "Sound_033"
+      "name": "v_drluigi_huttobi1"
     },
     {
-      "name": "Sound_034"
-    },
-    {
-      "name": "Sound_035"
-    },
-    {
-      "name": "Sound_036"
-    },
-    {
-      "name": "Sound_037"
-    },
-    {
-      "name": "Sound_038"
-    },
-    {
-      "name": "Sound_039"
-    },
-    {
-      "name": "Sound_040"
-    },
-    {
-      "name": "Sound_041"
-    },
-    {
-      "name": "Sound_042"
-    },
-    {
-      "name": "Sound_043"
-    },
-    {
-      "name": "Sound_044"
-    },
-    {
-      "name": "Sound_045"
-    },
-    {
-      "name": "Sound_046"
-    },
-    {
-      "name": "Sound_047"
-    },
-    {
-      "name": "Sound_048"
-    },
-    {
-      "name": "Sound_049"
+      "name": "v_drluigi_huttobi2"
     }
   ]
 }

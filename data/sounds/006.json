@@ -87,6 +87,9 @@
     },
     {
       "name": "se_captain_fdive"
+    },
+    {
+      "name": "se_call_bonus"
     }
   ]
 }

@@ -1,128 +1,131 @@
 {
-  "name": "Metal Sonic",
-  "fileName": "metal_sonic.ssm",
+  "name": "Lucina",
+  "fileName": "lucina.ssm",
   "groupFlags": 67240711,
-  "flags": 0,
+  "flags": 1,
   "sounds": [
     {
       "name": "se_call_bonus"
     },
     {
-      "name": "se_metalsonic_jump0"
+      "name": "se_lucina_sw_demo_simau"
     },
     {
-      "name": "se_metalsonic_jump1"
+      "name": "se_lucina_sw_demo_nuki"
     },
     {
-      "name": "se_metalsonic_side1"
+      "name": "se_lucina_sw_demo1"
     },
     {
-      "name": "se_metalsonic_side2"
+      "name": "se_lucina_sw_demo2"
     },
     {
-      "name": "se_metalsonic_stop"
+      "name": "se_lucina_sw_demo3"
     },
     {
-      "name": "se_metalsonic_black shield"
+      "name": "se_lucina_sw_demo4"
     },
     {
-      "name": "se_metalsonic_up b"
+      "name": "v_lucina_atk1"
     },
     {
-      "name": "se_metalsonic_up b start"
+      "name": "v_lucina_atk2"
     },
     {
-      "name": "se_metalsonic_run"
+      "name": "v_lucina_atk3"
     },
     {
-      "name": "se_sonic_ring"
+      "name": "v_lucina_atk4"
     },
     {
-      "name": "v_metalsonic_atk1"
+      "name": "v_lucina_atk5"
     },
     {
-      "name": "v_metalsonic_atk2"
+      "name": "v_lucina_atk6"
     },
     {
-      "name": "v_metalsonic_atk3"
+      "name": "v_lucina_atk7"
     },
     {
-      "name": "v_metalsonic_atk4"
+      "name": "v_lucina_future"
     },
     {
-      "name": "v_metalsonic_atk5"
+      "name": "v_lucina_count1"
     },
     {
-      "name": "v_sonic_gake"
+      "name": "v_lucina_count2"
     },
     {
-      "name": "v_metalsonic_nair"
+      "name": "v_lucina_gake"
     },
     {
-      "name": "v_sonic_hosikie"
+      "name": "v_lucina_hosikie"
     },
     {
-      "name": "v_sonic_hura"
+      "name": "v_lucina_hura"
     },
     {
-      "name": "v_metalsonic_dodge"
+      "name": "v_lucina_huttobi"
     },
     {
-      "name": "v_sonic_jump2"
+      "name": "v_lucina_huttobi2"
     },
     {
-      "name": "v_metalsonic_appeal"
+      "name": "v_lucina_jump"
     },
     {
-      "name": "v_sonic_motiage"
+      "name": "v_lucina_father"
     },
     {
-      "name": "v_metalsonic_nemuru"
+      "name": "v_lucina_neverdefeat"
     },
     {
-      "name": "v_metalsonic_nemuru2"
+      "name": "v_lucina_comeatme"
     },
     {
-      "name": "v_metalsonic_otto"
+      "name": "v_lucina_motiage"
     },
     {
-      "name": "v_metalsonic_rakka4"
+      "name": "v_lucina_nemuru"
     },
     {
-      "name": "v_metalsonic_win"
+      "name": "v_lucina_otto"
     },
     {
-      "name": "v_metalsonic_yarare"
+      "name": "v_lucina_rakka4"
     },
     {
-      "name": "v_metalsonic_huttobi1"
+      "name": "v_lucina_shiedbreak"
     },
     {
-      "name": "v_metalsonic_huttobi2"
+      "name": "v_lucina_yarare"
     },
     {
-      "name": "v_sonic_kirby"
+      "name": "se_lucina_counter_kamae"
     },
     {
-      "name": "se_sonic_cloop"
+      "name": "se_lucina_counter"
     },
     {
-      "name": "se_sonic_chargeloop"
+      "name": "se_lucina_sbreak_tame"
     },
     {
-      "name": "se_sonic_appealjump"
+      "name": "se_lucina_sbreak"
     },
     {
-      "name": "v_metalsonic_lasercharge"
+      "name": "se_lucina_dolphin"
     },
     {
-      "name": "v_metalsonic_laserover"
+      "name": "se_lucina_sw_conbo1"
     },
     {
-      "name": "v_metalsonic_laser"
+      "name": "se_lucina_sw_conbo2"
     },
     {
-      "name": "v_metalsonic_wins"
+      "name": "se_lucina_sw_conbo3"
+    },
+    {
+      "name": "se_lucina_sw_conbo4"
     }
   ]
 }

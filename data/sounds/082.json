@@ -1,113 +1,116 @@
 {
-  "name": "Skull Kid",
-  "fileName": "skullkid.ssm",
-  "groupFlags": 67240710,
+  "name": "Toad",
+  "fileName": "toad.ssm",
+  "groupFlags": 67240705,
   "flags": 0,
   "sounds": [
     {
-      "name": "Sound_000"
+      "name": "se_call_bonus"
     },
     {
-      "name": "Sound_001"
+      "name": "se_mario_2big"
     },
     {
-      "name": "Sound_002"
+      "name": "se_mario_dokan"
     },
     {
-      "name": "Sound_003"
+      "name": "se_mario_fire_dasi"
     },
     {
-      "name": "Sound_004"
+      "name": "se_mario_sjp_hit"
     },
     {
-      "name": "Sound_005"
+      "name": "se_mario_sjp_jump"
     },
     {
-      "name": "Sound_006"
+      "name": "se_mario_spin"
     },
     {
-      "name": "Sound_007"
+      "name": "se_mario_spin2"
     },
     {
-      "name": "Sound_008"
+      "name": "se_mario_mant"
     },
     {
-      "name": "Sound_009"
+      "name": "se_mario_fireball"
     },
     {
-      "name": "Sound_010"
+      "name": "se_mario_giant"
     },
     {
-      "name": "Sound_011"
+      "name": "v_mario_atk1"
     },
     {
-      "name": "Sound_012"
+      "name": "v_mario_atk2"
     },
     {
-      "name": "Sound_013"
+      "name": "v_mario_atk3"
     },
     {
-      "name": "Sound_014"
+      "name": "v_mario_atk4"
     },
     {
-      "name": "Sound_015"
+      "name": "v_mario_atk5"
     },
     {
-      "name": "Sound_016"
+      "name": "v_mario_gake"
     },
     {
-      "name": "Sound_017"
+      "name": "v_mario_hissatu"
     },
     {
-      "name": "Sound_018"
+      "name": "v_mario_hosikie"
     },
     {
-      "name": "Sound_019"
+      "name": "v_mario_hura"
     },
     {
-      "name": "Sound_020"
+      "name": "v_mario_jump"
     },
     {
-      "name": "Sound_021"
+      "name": "v_mario_jump2"
     },
     {
-      "name": "Sound_022"
+      "name": "v_mario_kirifuda"
     },
     {
-      "name": "Sound_023"
+      "name": "v_mario_motiage"
     },
     {
-      "name": "Sound_024"
+      "name": "v_mario_nemuru"
     },
     {
-      "name": "Sound_025"
+      "name": "v_mario_nemuru2"
     },
     {
-      "name": "Sound_026"
+      "name": "v_mario_otto"
     },
     {
-      "name": "Sound_027"
+      "name": "v_mario_rakka4"
     },
     {
-      "name": "Sound_028"
+      "name": "v_mario_win"
     },
     {
-      "name": "Sound_029"
+      "name": "v_mario_yarare"
     },
     {
-      "name": "Sound_030"
+      "name": "v_mario_huttobi1"
     },
     {
-      "name": "Sound_031"
+      "name": "v_mario_huttobi2"
     },
     {
-      "name": "Sound_032"
+      "name": "v_toad_rsfx"
     },
     {
-      "name": "Sound_033"
+      "name": "v_toad_walljump_unused"
     },
     {
-      "name": "Sound_034"
+      "name": "v_toad_smallhurt"
+    },
+    {
+      "name": "se_toad_atk3"
     }
   ]
 }

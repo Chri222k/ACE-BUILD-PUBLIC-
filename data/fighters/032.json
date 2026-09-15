@@ -281,30 +281,6 @@
       },
       "icon": "icons\\ft_220",
       "csp": "csp\\csp_213"
-    },
-    {
-      "name": "Masked King ",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlDeMa.dat",
-        "jointSymbol": "PlyDedede5K_Share_joint",
-        "materialSymbol": "PlyDedede5K_Share_matanim_joint"
-      },
-      "icon": "icons\\ft_401",
-      "csp": "csp\\csp_395"
-    },
-    {
-      "name": "Shadow ",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlDeSh.dat",
-        "jointSymbol": "PlyDedede5K_Share_joint",
-        "materialSymbol": "PlyDedede5K_Share_matanim_joint"
-      },
-      "icon": "icons\\ft_400",
-      "csp": "csp\\csp_396"
     }
   ],
   "kirbyCostumes": [],

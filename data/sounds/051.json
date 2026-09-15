@@ -164,25 +164,46 @@
       "name": "nr_bonuschar"
     },
     {
-      "name": "wolf1"
+      "name": "nr_wolf"
     },
     {
-      "name": "charizard2"
+      "name": "nr_lizardon"
     },
     {
-      "name": "diddykong1"
+      "name": "nr_diddykong"
     },
     {
-      "name": "kingdedede1"
+      "name": "nr_dedede"
     },
     {
-      "name": "lucas2"
+      "name": "nr_lucas"
     },
     {
-      "name": "sonic2"
+      "name": "nr_sonic"
     },
     {
-      "name": "tails2"
+      "name": "nr_tails"
+    },
+    {
+      "name": "nr_wario"
+    },
+    {
+      "name": "nr_shadow"
+    },
+    {
+      "name": "nr_lucina"
+    },
+    {
+      "name": "nr_toad"
+    },
+    {
+      "name": "nr_metalmario"
+    },
+    {
+      "name": "nr_drluigi"
+    },
+    {
+      "name": "nr_daisy"
     }
   ]
 }

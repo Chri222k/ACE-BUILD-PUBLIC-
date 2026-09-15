@@ -4,17 +4,17 @@
   "lastMinorSceneID": 45,
   "build": {
     "name": "Akaneia Community Edition",
-    "majorVersion": 2,
+    "majorVersion": 1,
     "minorVersion": 0,
-    "patchVersion": 0,
-    "crashMessage": "#####################################################\r\n##    OH NO, THE GAME BROKE! SORRY ABOUT THAT!     ##\r\n##  Please Report it in our Discord Bug Support    ##\r\n##  To reboot the game, PRESS LRA-START to reboot  ##\r\n#####################################################",
+    "patchVersion": 1,
+    "crashMessage": "#####################################################\r\n##    OH NO, THE GAME BROKE! SORRY ABOUT THAT!     ##\r\n##  To reboot the game, PRESS LRA-START to reboot  ##\r\n#####################################################",
     "saveFile": "SuperSmashBrosAce",
     "banner": "banner",
-    "shortName": "ACE Build",
-    "longName": "The ACE Build v2.0.0",
-    "shortMaker": "Team ACE",
-    "longMaker": "HAL/Team Akaneia/Team Ace/TDX",
-    "description": "Nintendo\u0027s all-stars are ready to do \nbattle! Let the melee begin!"
+    "shortName": "Ace Build",
+    "longName": "The Ace Build v1.0.1",
+    "shortMaker": "Team Akaneia, TurboDX, Team ACE",
+    "longMaker": "HAL/Team Akaneia/Team Ace/TurboDX",
+    "description": "Nintendo\u0027s all-stars are ready to do \nbattle! 3rd party fighters joining the\r\nfray too! Let the real melee begin!"
   },
   "menuPlaylist": {
     "entries": [
@@ -109,18 +109,7 @@
       "050.json",
       "051.json",
       "052.json",
-      "053.json",
-      "054.json",
-      "055.json",
-      "056.json",
-      "057.json",
-      "058.json",
-      "059.json",
-      "060.json",
-      "061.json",
-      "062.json",
-      "063.json",
-      "064.json"
+      "053.json"
     ]
   },
   "stageSaveMap": {
@@ -249,37 +238,7 @@
       "121.json",
       "122.json",
       "123.json",
-      "124.json",
-      "125.json",
-      "126.json",
-      "127.json",
-      "128.json",
-      "129.json",
-      "130.json",
-      "131.json",
-      "132.json",
-      "133.json",
-      "134.json",
-      "135.json",
-      "136.json",
-      "137.json",
-      "138.json",
-      "139.json",
-      "140.json",
-      "141.json",
-      "142.json",
-      "143.json",
-      "144.json",
-      "145.json",
-      "146.json",
-      "147.json",
-      "148.json",
-      "149.json",
-      "150.json",
-      "151.json",
-      "152.json",
-      "153.json",
-      "154.json"
+      "124.json"
     ]
   },
   "soundSaveMap": {
@@ -371,22 +330,7 @@
       "084.json",
       "085.json",
       "086.json",
-      "087.json",
-      "088.json",
-      "089.json",
-      "090.json",
-      "091.json",
-      "092.json",
-      "093.json",
-      "094.json",
-      "095.json",
-      "096.json",
-      "097.json",
-      "098.json",
-      "099.json",
-      "100.json",
-      "101.json",
-      "102.json"
+      "087.json"
     ]
   }
 }
