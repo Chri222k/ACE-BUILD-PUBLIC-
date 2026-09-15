@@ -191,6 +191,18 @@
       },
       "icon": "icons\\ft_206",
       "csp": "csp\\csp_199"
+    },
+    {
+      "name": "Shadow ",
+      "colorSmashGroup": 0,
+      "file": {
+        "visibilityIndex": 0,
+        "fileName": "PlSnSw2.dat",
+        "jointSymbol": "PlySonic5K_Share_joint",
+        "materialSymbol": "PlySonic5K_Share_matanim_joint"
+      },
+      "icon": "icons\\ft_402",
+      "csp": "csp\\csp_394"
     }
   ],
   "kirbyCostumes": [],

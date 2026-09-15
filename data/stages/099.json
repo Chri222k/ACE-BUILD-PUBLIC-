@@ -1,10 +1,10 @@
 {
-  "name": "Radical Highway",
+  "name": "Beat Block Galaxy",
   "location": "",
-  "seriesID": 17,
-  "fileName": "GrHw.dat",
+  "seriesID": 11,
+  "fileName": "GrBeat.dat",
   "additionalFiles": [],
-  "soundBank": 55,
+  "soundBank": 99,
   "reverbValue1": 1,
   "reverbValue2": 1,
   "collisionMaterials": 2151411416,
@@ -23,21 +23,17 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 140,
-        "chanceToPlay": 74
-      },
-      {
-        "musicID": 141,
+        "musicID": 159,
         "chanceToPlay": 50
       },
       {
-        "musicID": 142,
+        "musicID": 160,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_078",
-    "banner": "sss\\icon_079"
+    "icon": "sss\\icon_106",
+    "banner": "sss\\icon_107"
   }
 }

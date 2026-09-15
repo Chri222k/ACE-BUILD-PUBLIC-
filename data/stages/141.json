@@ -1,0 +1,47 @@
+{
+  "name": "Edo Town",
+  "location": "",
+  "seriesID": 11,
+  "fileName": "GrEt.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151407656,
+  "mapDescPointer": 2151577144,
+  "onStageInit": 2149648352,
+  "onStageLoad": 2149648516,
+  "onStageGo": 2149648520,
+  "onGo": 2149648348,
+  "onUnknown2": 2149648556,
+  "onTouchLine": 2149653664,
+  "onUnknown4": 2149653672,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 174,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 183,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 187,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 198,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_192",
+    "banner": "sss\\icon_193"
+  }
+}

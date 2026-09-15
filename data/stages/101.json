@@ -1,14 +1,14 @@
 {
-  "name": "Smashketball",
+  "name": "Bowser\u0027s Castle",
   "location": "",
-  "seriesID": 11,
-  "fileName": "GrSb.dat",
+  "seriesID": 6,
+  "fileName": "GrKpCst.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
   "collisionMaterials": 2151411416,
-  "mapDescPointer": 4294967295,
+  "mapDescPointer": 2151584952,
   "onStageInit": 2149726312,
   "onStageLoad": 2149726424,
   "onStageGo": 2149726428,
@@ -23,13 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 83,
+        "musicID": 225,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_104",
-    "banner": "sss\\icon_105"
+    "icon": "sss\\icon_110",
+    "banner": "sss\\icon_111"
   }
 }

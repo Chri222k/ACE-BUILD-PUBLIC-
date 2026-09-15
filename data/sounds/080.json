@@ -1,125 +1,116 @@
 {
-  "name": "LucasTDX",
-  "fileName": "lucastdx.ssm",
-  "groupFlags": 67240710,
-  "flags": 0,
+  "name": "Raichu",
+  "fileName": "raichu.ssm",
+  "groupFlags": 67240711,
+  "flags": 1,
   "sounds": [
     {
-      "name": "se_call_lucastdx"
+      "name": "Sound_000"
     },
     {
-      "name": "v_lucastdx_atk1"
+      "name": "Sound_001"
     },
     {
-      "name": "v_lucastdx_atk2"
+      "name": "Sound_002"
     },
     {
-      "name": "v_lucastdx_atk3"
+      "name": "Sound_003"
     },
     {
-      "name": "v_lucastdx_atk4"
+      "name": "Sound_004"
     },
     {
-      "name": "v_lucastdx_atk5"
+      "name": "Sound_005"
     },
     {
-      "name": "v_lucastdx_gake"
+      "name": "Sound_006"
     },
     {
-      "name": "v_lucastdx_hosikie"
+      "name": "Sound_007"
     },
     {
-      "name": "v_lucastdx_hura"
+      "name": "Sound_008"
     },
     {
-      "name": "v_lucastdx_huttobi1"
+      "name": "Sound_009"
     },
     {
-      "name": "v_lucastdx_huttobi2"
+      "name": "Sound_010"
     },
     {
-      "name": "v_lucastdx_motiage"
+      "name": "Sound_011"
     },
     {
-      "name": "v_lucastdx_nemuru"
+      "name": "Sound_012"
     },
     {
-      "name": "v_lucastdx_otto"
+      "name": "Sound_013"
     },
     {
-      "name": "v_lucastdx_pkfire"
+      "name": "Sound_014"
     },
     {
-      "name": "v_lucastdx_pkfreeze"
+      "name": "Sound_015"
     },
     {
-      "name": "v_lucastdx_pkjibaku"
+      "name": "Sound_016"
     },
     {
-      "name": "v_lucastdx_pkthunder"
+      "name": "Sound_017"
     },
     {
-      "name": "v_lucastdx_rakka4"
+      "name": "Sound_018"
     },
     {
-      "name": "v_lucastdx_yarare"
+      "name": "Sound_019"
     },
     {
-      "name": "se_lucastdx_pkfire"
+      "name": "Sound_020"
     },
     {
-      "name": "se_lucastdx_pkfreeze_dasi"
+      "name": "Sound_021"
     },
     {
-      "name": "se_lucastdx_explode"
+      "name": "Sound_022"
     },
     {
-      "name": "se_lucastdx_pkthund"
+      "name": "Sound_023"
     },
     {
-      "name": "se_lucastdx_magnet"
+      "name": "Sound_024"
     },
     {
-      "name": "se_lucastdx_psi"
+      "name": "Sound_025"
     },
     {
-      "name": "se_lucastdx_snake"
+      "name": "Sound_026"
     },
     {
-      "name": "se_lucastdx_freeze"
+      "name": "Sound_027"
     },
     {
-      "name": "se_lucastdx_pkfreeze_flush"
+      "name": "Sound_028"
     },
     {
-      "name": "se_lucastdx_reflect"
+      "name": "Sound_029"
     },
     {
-      "name": "se_lucastdx_attacks4"
+      "name": "Sound_030"
     },
     {
-      "name": "se_lucastdx_bury"
+      "name": "Sound_031"
     },
     {
-      "name": "se_kirby_pkfreeze"
+      "name": "Sound_032"
     },
     {
-      "name": "se_lucastdx_psispin"
+      "name": "Sound_033"
     },
     {
-      "name": "se_lucastdx_appeal2"
+      "name": "Sound_034"
     },
     {
-      "name": "se_lucastdx_smashhi"
-    },
-    {
-      "name": "se_lucastdx_pop1"
-    },
-    {
-      "name": "se_lucastdx_pop2"
-    },
-    {
-      "name": "se_lucastdx_win"
+      "name": "Sound_035"
     }
   ]
 }

@@ -1,125 +1,128 @@
 {
-  "name": "Ninten",
-  "fileName": "ninten.ssm",
-  "groupFlags": 67240710,
-  "flags": 0,
+  "name": "LuigiandBoo",
+  "fileName": "luigiandboo.ssm",
+  "groupFlags": 67240706,
+  "flags": 1,
   "sounds": [
     {
-      "name": "se_call_lucas"
+      "name": "se_call_luigi"
     },
     {
-      "name": "v_lucas_atk1"
+      "name": "se_luigi_demo1"
     },
     {
-      "name": "v_lucas_atk2"
+      "name": "se_luigi_2big"
     },
     {
-      "name": "v_lucas_atk3"
+      "name": "se_luigi_dokan"
     },
     {
-      "name": "v_lucas_atk4"
+      "name": "se_luigi_fire_dasi"
     },
     {
-      "name": "v_lucas_atk5"
+      "name": "se_luigi_sjp_hit"
     },
     {
-      "name": "v_lucas_gake"
+      "name": "se_luigi_sjp_jump"
     },
     {
-      "name": "v_lucas_hosikie"
+      "name": "se_luigi_spin"
     },
     {
-      "name": "v_lucas_hura"
+      "name": "se_luigi_spin2"
     },
     {
-      "name": "v_lucas_huttobi1"
+      "name": "se_luigi_mant"
     },
     {
-      "name": "v_lucas_huttobi2"
+      "name": "se_luigi_fireball"
     },
     {
-      "name": "v_lucas_motiage"
+      "name": "se_luigi_giant"
     },
     {
-      "name": "v_lucas_nemuru"
+      "name": "se_luigi_zuzukitame"
     },
     {
-      "name": "v_lucas_otto"
+      "name": "se_luigi_zuzuki"
     },
     {
-      "name": "v_lucas_cough"
+      "name": "se_luigi_zuzuki_sp"
     },
     {
-      "name": "v_lucas_pkfreeze"
+      "name": "v_luigi_atk1"
     },
     {
-      "name": "v_lucas_pkjibaku"
+      "name": "v_luigi_atk2"
     },
     {
-      "name": "v_lucas_pull"
+      "name": "v_luigi_atk3"
     },
     {
-      "name": "v_lucas_rakka4"
+      "name": "v_luigi_atk4"
     },
     {
-      "name": "v_lucas_yarare"
+      "name": "v_luigi_atk5"
     },
     {
-      "name": "se_lucas_4D"
+      "name": "v_luigi_gake"
     },
     {
-      "name": "se_lucas_pkfreeze_dasi"
+      "name": "v_luigi_hissatu"
     },
     {
-      "name": "se_lucas_explode"
+      "name": "v_luigi_hosikie"
     },
     {
-      "name": "se_lucas_pkthund"
+      "name": "v_luigi_hura"
     },
     {
-      "name": "se_lucas_magnet"
+      "name": "v_luigi_jump"
     },
     {
-      "name": "se_lucas_psi"
+      "name": "v_luigi_jump2"
     },
     {
-      "name": "se_lucas_snake"
+      "name": "v_luigi_kirifuda"
     },
     {
-      "name": "se_lucas_freeze"
+      "name": "v_luigi_motiage"
     },
     {
-      "name": "se_lucas_pkfreeze_flush"
+      "name": "v_luigi_nemuru"
     },
     {
-      "name": "se_lucas_reflect"
+      "name": "v_luigi_nemuru2"
     },
     {
-      "name": "se_lucas_attacks4"
+      "name": "v_luigi_otto"
     },
     {
-      "name": "se_lucas_bury"
+      "name": "v_luigi_rakka4"
     },
     {
-      "name": "se_kirby_pkfreeze"
+      "name": "v_luigi_yarare"
     },
     {
-      "name": "se_lucas_psispin"
+      "name": "v_luigi_huttobi1"
     },
     {
-      "name": "se_lucas_appeal2"
+      "name": "v_luigi_huttobi2"
     },
     {
-      "name": "se_lucas_smashhi"
+      "name": "v_boo_atkF"
     },
     {
-      "name": "se_lucas_pop1"
+      "name": "boo_atkN"
     },
     {
-      "name": "se_lucas_pop2"
+      "name": "boo_atkhi"
     },
     {
-      "name": "se_lucas_win"
+      "name": "boo_atklw"
+    },
+    {
+      "name": "boo_atksmash"
     }
   ]
 }

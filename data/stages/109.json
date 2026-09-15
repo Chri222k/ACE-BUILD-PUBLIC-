@@ -1,8 +1,8 @@
 {
-  "name": "Vs. Andross (Star Fox SNES)",
+  "name": " Mirror World",
   "location": "",
-  "seriesID": 2,
-  "fileName": "GrAn.dat",
+  "seriesID": 5,
+  "fileName": "GrDm.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 56,
@@ -23,13 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 6,
+        "musicID": 154,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_120",
-    "banner": "sss\\icon_121"
+    "icon": "sss\\icon_126",
+    "banner": "sss\\icon_127"
   }
 }

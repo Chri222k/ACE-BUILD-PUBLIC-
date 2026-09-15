@@ -1,14 +1,14 @@
 {
-  "name": "Ice Top",
-  "location": "Special Stages",
-  "seriesID": 4,
-  "fileName": "GrIT.dat",
+  "name": "Donkey Kong Arcade",
+  "location": "",
+  "seriesID": 1,
+  "fileName": "GrDk.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 56,
   "reverbValue2": 56,
-  "collisionMaterials": 2151409496,
-  "mapDescPointer": 2151579040,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
   "onStageInit": 2149686436,
   "onStageLoad": 2149686612,
   "onStageGo": 2149686616,
@@ -23,17 +23,17 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 40,
+        "musicID": 200,
         "chanceToPlay": 50
       },
       {
-        "musicID": 2,
+        "musicID": 171,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_122",
-    "banner": "sss\\icon_123"
+    "icon": "sss\\icon_128",
+    "banner": "sss\\icon_129"
   }
 }

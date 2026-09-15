@@ -4,17 +4,17 @@
   "canWallJump": false,
   "subCharacter": -1,
   "subCharacterBehavior": 0,
-  "soundBank": 80,
+  "soundBank": 102,
   "ssmBitfield1": 0,
   "ssmBitfield2": 0,
-  "announcerCall": 510058,
+  "announcerCall": 510059,
   "victoryTheme": 23,
-  "fighterMusic1": 174,
-  "fighterMusic2": 174,
+  "fighterMusic1": 0,
+  "fighterMusic2": 0,
   "targetTestStage": 298,
-  "classicTrophyId": 302,
-  "adventureTrophyId": 303,
-  "allStarTrophyId": 304,
+  "classicTrophyId": 0,
+  "adventureTrophyId": 1,
+  "allStarTrophyId": 2,
   "racetoTheFinishTime": 47,
   "resultScreenScale": 1,
   "endingScreenScale": 0.6,
@@ -180,78 +180,6 @@
       "onHitShieldBounce": 0,
       "onHitShieldDetermineDestroy": 0,
       "onUnk3": 0
-    },
-    {
-      "name": "New Item",
-      "states": [],
-      "onSpawn": 0,
-      "onDestroy": 0,
-      "onPickup": 0,
-      "onDrop": 0,
-      "onThrow": 0,
-      "onGiveDamage": 0,
-      "onTakeDamage": 0,
-      "onEnterAir": 0,
-      "onReflect": 0,
-      "onClank": 0,
-      "onUnk2": 0,
-      "onHitShieldBounce": 0,
-      "onHitShieldDetermineDestroy": 0,
-      "onUnk3": 0
-    },
-    {
-      "name": "New Item",
-      "states": [],
-      "onSpawn": 0,
-      "onDestroy": 0,
-      "onPickup": 0,
-      "onDrop": 0,
-      "onThrow": 0,
-      "onGiveDamage": 0,
-      "onTakeDamage": 0,
-      "onEnterAir": 0,
-      "onReflect": 0,
-      "onClank": 0,
-      "onUnk2": 0,
-      "onHitShieldBounce": 0,
-      "onHitShieldDetermineDestroy": 0,
-      "onUnk3": 0
-    },
-    {
-      "name": "New Item",
-      "states": [],
-      "onSpawn": 0,
-      "onDestroy": 0,
-      "onPickup": 0,
-      "onDrop": 0,
-      "onThrow": 0,
-      "onGiveDamage": 0,
-      "onTakeDamage": 0,
-      "onEnterAir": 0,
-      "onReflect": 0,
-      "onClank": 0,
-      "onUnk2": 0,
-      "onHitShieldBounce": 0,
-      "onHitShieldDetermineDestroy": 0,
-      "onUnk3": 0
-    },
-    {
-      "name": "New Item",
-      "states": [],
-      "onSpawn": 0,
-      "onDestroy": 0,
-      "onPickup": 0,
-      "onDrop": 0,
-      "onThrow": 0,
-      "onGiveDamage": 0,
-      "onTakeDamage": 0,
-      "onEnterAir": 0,
-      "onReflect": 0,
-      "onClank": 0,
-      "onUnk2": 0,
-      "onHitShieldBounce": 0,
-      "onHitShieldDetermineDestroy": 0,
-      "onUnk3": 0
     }
   ],
   "boneDefinitions": {
@@ -325,7 +253,7 @@
   "greenCostumeIndex": 4,
   "costumes": [
     {
-      "name": "Neutral",
+      "name": "PlLc2Nr",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -337,7 +265,7 @@
       "csp": "csp\\csp_231"
     },
     {
-      "name": "Claus",
+      "name": "PlLc2Cl",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -349,7 +277,7 @@
       "csp": "csp\\csp_232"
     },
     {
-      "name": "Blue",
+      "name": "PlLc2Bu",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -361,7 +289,7 @@
       "csp": "csp\\csp_233"
     },
     {
-      "name": "Red",
+      "name": "PlLc2Re",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -373,7 +301,7 @@
       "csp": "csp\\csp_234"
     },
     {
-      "name": "Green",
+      "name": "PlLc2Gr",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -385,7 +313,7 @@
       "csp": "csp\\csp_235"
     },
     {
-      "name": "Lavender",
+      "name": "PlLc2La",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -397,7 +325,7 @@
       "csp": "csp\\csp_236"
     },
     {
-      "name": "Orange",
+      "name": "PlLc2Or",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,

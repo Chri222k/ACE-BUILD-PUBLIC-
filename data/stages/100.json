@@ -1,21 +1,21 @@
 {
-  "name": "Wario\u0027s Castle",
+  "name": "Bowser\u0027s Castle (Paper Mario)",
   "location": "",
-  "seriesID": 18,
-  "fileName": "GrWarioCastle.dat",
+  "seriesID": 6,
+  "fileName": "GrKcs.dat",
   "additionalFiles": [],
-  "soundBank": 84,
+  "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
-  "collisionMaterials": 2151411416,
-  "mapDescPointer": 2151584952,
-  "onStageInit": 2149726312,
-  "onStageLoad": 2149726424,
-  "onStageGo": 2149726428,
-  "onGo": 2149726308,
-  "onUnknown2": 2149726464,
-  "onTouchLine": 2149727032,
-  "onUnknown4": 2149727040,
+  "collisionMaterials": 2151412136,
+  "mapDescPointer": 2151572264,
+  "onStageInit": 2149638772,
+  "onStageLoad": 2149638884,
+  "onStageGo": 2149638888,
+  "onGo": 2149638768,
+  "onUnknown2": 2149638924,
+  "onTouchLine": 2149639412,
+  "onUnknown4": 2149639420,
   "unknownValue": 1,
   "movingCollisionPointer": 0,
   "movingCollisionCount": 0,
@@ -23,17 +23,21 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 144,
-        "chanceToPlay": 75
+        "musicID": 188,
+        "chanceToPlay": 50
       },
       {
-        "musicID": 143,
+        "musicID": 175,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 225,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_102",
-    "banner": "sss\\icon_103"
+    "icon": "sss\\icon_108",
+    "banner": "sss\\icon_109"
   }
 }

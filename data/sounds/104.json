@@ -1,0 +1,14 @@
+{
+  "name": "Beatblock",
+  "fileName": "beatblock.ssm",
+  "groupFlags": 84017664,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "beep1"
+    },
+    {
+      "name": "beep2"
+    }
+  ]
+}

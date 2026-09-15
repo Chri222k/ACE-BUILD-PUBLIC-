@@ -1,8 +1,8 @@
 {
-  "name": "Celestial Valley",
+  "name": "Chocolate Factory",
   "location": "",
-  "seriesID": 5,
-  "fileName": "GrClv.dat",
+  "seriesID": 11,
+  "fileName": "GrChoc.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
@@ -23,13 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 145,
+        "musicID": 217,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_114",
-    "banner": "sss\\icon_115"
+    "icon": "sss\\icon_120",
+    "banner": "sss\\icon_121"
   }
 }

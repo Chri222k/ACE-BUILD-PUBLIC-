@@ -171,12 +171,21 @@
     "model": "series\\emblem_016"
   },
   {
-    "name": "Street Fighter",
+    "name": "MegaMan",
     "playlist": {
       "entries": []
     },
     "icon": "series\\icon_019",
     "stageSelectIcon": null,
     "model": "series\\emblem_017"
+  },
+  {
+    "name": "Street Fighter",
+    "playlist": {
+      "entries": []
+    },
+    "icon": "series\\icon_020",
+    "stageSelectIcon": null,
+    "model": "series\\emblem_018"
   }
 ]

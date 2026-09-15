@@ -1,0 +1,35 @@
+{
+  "name": "Winters",
+  "location": "Eagleland",
+  "seriesID": 8,
+  "fileName": "GrWs.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 1,
+  "reverbValue2": 1,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
+  "onStageInit": 2149638112,
+  "onStageLoad": 2149638224,
+  "onStageGo": 2149638228,
+  "onGo": 2149638108,
+  "onUnknown2": 2149638264,
+  "onTouchLine": 2149638752,
+  "onUnknown4": 2149638760,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 221,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_178",
+    "banner": "sss\\icon_179"
+  }
+}

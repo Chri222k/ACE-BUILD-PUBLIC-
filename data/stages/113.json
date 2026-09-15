@@ -1,14 +1,14 @@
 {
-  "name": "Realgam Colosseum",
-  "location": "",
+  "name": "Ecruteak City",
+  "location": "Johto",
   "seriesID": 9,
-  "fileName": "GrColosseum.dat",
+  "fileName": "GrEj.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
-  "collisionMaterials": 2151409496,
-  "mapDescPointer": 2151579040,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
   "onStageInit": 2149726312,
   "onStageLoad": 2149726424,
   "onStageGo": 2149726428,
@@ -25,19 +25,11 @@
       {
         "musicID": 166,
         "chanceToPlay": 50
-      },
-      {
-        "musicID": 167,
-        "chanceToPlay": 50
-      },
-      {
-        "musicID": 168,
-        "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_128",
-    "banner": "sss\\icon_129"
+    "icon": "sss\\icon_134",
+    "banner": "sss\\icon_135"
   }
 }

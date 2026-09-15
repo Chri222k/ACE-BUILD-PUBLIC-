@@ -1,0 +1,107 @@
+{
+  "name": "Knuckles",
+  "fileName": "knuckles.ssm",
+  "groupFlags": 67240711,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_bonus"
+    },
+    {
+      "name": "se_knuckles_jump0"
+    },
+    {
+      "name": "se_knuckles_jump1"
+    },
+    {
+      "name": "se_knuckles_spin0"
+    },
+    {
+      "name": "se_knuckles_stop"
+    },
+    {
+      "name": "se_knuckles_spring"
+    },
+    {
+      "name": "se_knuckles_Nshoot"
+    },
+    {
+      "name": "se_knuckles_Nhit"
+    },
+    {
+      "name": "v_knuckles_atk1"
+    },
+    {
+      "name": "v_knuckles_atk2"
+    },
+    {
+      "name": "v_knuckles_atk3"
+    },
+    {
+      "name": "v_knuckles_atk4"
+    },
+    {
+      "name": "v_knuckles_atk5"
+    },
+    {
+      "name": "v_knuckles_gake"
+    },
+    {
+      "name": "v_knuckles_hosikie"
+    },
+    {
+      "name": "v_knuckles_hura"
+    },
+    {
+      "name": "v_knuckles_escape"
+    },
+    {
+      "name": "v_knuckles_appeal"
+    },
+    {
+      "name": "v_knuckles_motiage"
+    },
+    {
+      "name": "v_knuckles_nemuru"
+    },
+    {
+      "name": "v_knuckles_nemuru2"
+    },
+    {
+      "name": "v_knuckles_otto"
+    },
+    {
+      "name": "v_knuckles_rakka4"
+    },
+    {
+      "name": "v_knuckles_win1"
+    },
+    {
+      "name": "v_knuckles_yarare"
+    },
+    {
+      "name": "v_knuckles_huttobi1"
+    },
+    {
+      "name": "v_knuckles_huttobi2"
+    },
+    {
+      "name": "v_knuckles_kirby"
+    },
+    {
+      "name": "se_knuckles_cloop"
+    },
+    {
+      "name": "v_knuckles_win2"
+    },
+    {
+      "name": "v_knuckles_win3"
+    },
+    {
+      "name": "v_knuckles_wins"
+    },
+    {
+      "name": "v_knuckles_oraora"
+    }
+  ]
+}

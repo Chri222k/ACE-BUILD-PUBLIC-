@@ -1,131 +1,113 @@
 {
-  "name": "Lucina",
-  "fileName": "lucina.ssm",
-  "groupFlags": 67240711,
+  "name": "Dr. Luigi",
+  "fileName": "drluigi.ssm",
+  "groupFlags": 67240706,
   "flags": 1,
   "sounds": [
     {
-      "name": "se_call_bonus"
+      "name": "se_call_drluigi"
     },
     {
-      "name": "se_lucina_sw_demo_simau"
+      "name": "se_drluigi_demo1"
     },
     {
-      "name": "se_lucina_sw_demo_nuki"
+      "name": "se_drluigi_2big"
     },
     {
-      "name": "se_lucina_sw_demo1"
+      "name": "se_drluigi_dokan"
     },
     {
-      "name": "se_lucina_sw_demo2"
+      "name": "se_drluigi_fire_dasi"
     },
     {
-      "name": "se_lucina_sw_demo3"
+      "name": "se_drluigi_sjp_hit"
     },
     {
-      "name": "se_lucina_sw_demo4"
+      "name": "se_drluigi_sjp_jump"
     },
     {
-      "name": "v_lucina_atk1"
+      "name": "se_drluigi_spin"
     },
     {
-      "name": "v_lucina_atk2"
+      "name": "se_drluigi_spin2"
     },
     {
-      "name": "v_lucina_atk3"
+      "name": "se_drluigi_mant"
     },
     {
-      "name": "v_lucina_atk4"
+      "name": "se_drluigi_fireball"
     },
     {
-      "name": "v_lucina_atk5"
+      "name": "se_drluigi_giant"
     },
     {
-      "name": "v_lucina_atk6"
+      "name": "se_drluigi_zuzukitame"
     },
     {
-      "name": "v_lucina_atk7"
+      "name": "se_drluigi_zuzuki"
     },
     {
-      "name": "v_lucina_future"
+      "name": "se_drluigi_zuzuki_sp"
     },
     {
-      "name": "v_lucina_count1"
+      "name": "v_drluigi_atk1"
     },
     {
-      "name": "v_lucina_count2"
+      "name": "v_drluigi_atk2"
     },
     {
-      "name": "v_lucina_gake"
+      "name": "v_drluigi_atk3"
     },
     {
-      "name": "v_lucina_hosikie"
+      "name": "v_drluigi_atk4"
     },
     {
-      "name": "v_lucina_hura"
+      "name": "v_drluigi_atk5"
     },
     {
-      "name": "v_lucina_huttobi"
+      "name": "v_drluigi_gake"
     },
     {
-      "name": "v_lucina_huttobi2"
+      "name": "v_drluigi_hissatu"
     },
     {
-      "name": "v_lucina_jump"
+      "name": "v_drluigi_hosikie"
     },
     {
-      "name": "v_lucina_father"
+      "name": "v_drluigi_hura"
     },
     {
-      "name": "v_lucina_neverdefeat"
+      "name": "v_drluigi_jump"
     },
     {
-      "name": "v_lucina_comeatme"
+      "name": "v_drluigi_jump2"
     },
     {
-      "name": "v_lucina_motiage"
+      "name": "v_drluigi_kirifuda"
     },
     {
-      "name": "v_lucina_nemuru"
+      "name": "v_drluigi_motiage"
     },
     {
-      "name": "v_lucina_otto"
+      "name": "v_drluigi_nemuru"
     },
     {
-      "name": "v_lucina_rakka4"
+      "name": "v_drluigi_nemuru2"
     },
     {
-      "name": "v_lucina_shiedbreak"
+      "name": "v_drluigi_otto"
     },
     {
-      "name": "v_lucina_yarare"
+      "name": "v_drluigi_rakka4"
     },
     {
-      "name": "se_lucina_counter_kamae"
+      "name": "v_drluigi_yarare"
     },
     {
-      "name": "se_lucina_counter"
+      "name": "v_drluigi_huttobi1"
     },
     {
-      "name": "se_lucina_sbreak_tame"
-    },
-    {
-      "name": "se_lucina_sbreak"
-    },
-    {
-      "name": "se_lucina_dolphin"
-    },
-    {
-      "name": "se_lucina_sw_conbo1"
-    },
-    {
-      "name": "se_lucina_sw_conbo2"
-    },
-    {
-      "name": "se_lucina_sw_conbo3"
-    },
-    {
-      "name": "se_lucina_sw_conbo4"
+      "name": "v_drluigi_huttobi2"
     }
   ]
 }

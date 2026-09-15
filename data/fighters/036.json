@@ -7,14 +7,14 @@
   "soundBank": 79,
   "ssmBitfield1": 0,
   "ssmBitfield2": 0,
-  "announcerCall": 510068,
+  "announcerCall": 510059,
   "victoryTheme": 22,
-  "fighterMusic1": 173,
-  "fighterMusic2": 173,
-  "targetTestStage": 314,
-  "classicTrophyId": 33,
-  "adventureTrophyId": 34,
-  "allStarTrophyId": 35,
+  "fighterMusic1": 0,
+  "fighterMusic2": 0,
+  "targetTestStage": 348,
+  "classicTrophyId": 0,
+  "adventureTrophyId": 1,
+  "allStarTrophyId": 2,
   "racetoTheFinishTime": 50,
   "resultScreenScale": 0.9,
   "endingScreenScale": 0.75,
@@ -217,7 +217,7 @@
   "greenCostumeIndex": 2,
   "costumes": [
     {
-      "name": "Neutral",
+      "name": "PlDaNr",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -229,7 +229,7 @@
       "csp": "csp\\csp_222"
     },
     {
-      "name": "Peach Pink",
+      "name": "PlDaPi",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -241,7 +241,7 @@
       "csp": "csp\\csp_223"
     },
     {
-      "name": "Green",
+      "name": "PlDaGr",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -253,7 +253,7 @@
       "csp": "csp\\csp_224"
     },
     {
-      "name": "Blue",
+      "name": "PlDaBu",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -265,7 +265,7 @@
       "csp": "csp\\csp_225"
     },
     {
-      "name": "Red",
+      "name": "PlDaRe",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -277,7 +277,7 @@
       "csp": "csp\\csp_226"
     },
     {
-      "name": "Pink",
+      "name": "PlDaLa",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -289,7 +289,7 @@
       "csp": "csp\\csp_227"
     },
     {
-      "name": "White",
+      "name": "PlDaWh",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -301,7 +301,7 @@
       "csp": "csp\\csp_228"
     },
     {
-      "name": "Black",
+      "name": "PlDaBk",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
@@ -313,10 +313,10 @@
       "csp": "csp\\csp_229"
     },
     {
-      "name": "Tennis",
-      "colorSmashGroup": 2,
+      "name": "PlDaTn",
+      "colorSmashGroup": 0,
       "file": {
-        "visibilityIndex": 2,
+        "visibilityIndex": 0,
         "fileName": "PlDaTn.dat",
         "jointSymbol": "PlyPeach5K_Share_joint",
         "materialSymbol": "PlyPeach5K_Share_matanim_joint"

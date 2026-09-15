@@ -1,26 +1,26 @@
 {
-  "name": "Metal Mario",
-  "seriesID": 6,
+  "name": "Sonic BM",
+  "seriesID": 17,
   "canWallJump": true,
   "subCharacter": -1,
   "subCharacterBehavior": 0,
-  "soundBank": 18,
+  "soundBank": 85,
   "ssmBitfield1": 0,
   "ssmBitfield2": 262144,
-  "announcerCall": 510066,
-  "victoryTheme": 22,
-  "fighterMusic1": 80,
-  "fighterMusic2": 80,
-  "targetTestStage": 33,
+  "announcerCall": 510059,
+  "victoryTheme": 125,
+  "fighterMusic1": 0,
+  "fighterMusic2": 0,
+  "targetTestStage": 299,
   "classicTrophyId": 0,
   "adventureTrophyId": 1,
   "allStarTrophyId": 2,
-  "racetoTheFinishTime": 60,
+  "racetoTheFinishTime": 35,
   "resultScreenScale": 1,
-  "endingScreenScale": 0.9,
+  "endingScreenScale": 0.8,
   "items": [
     {
-      "name": "Metal Ball",
+      "name": "New Item",
       "states": [],
       "onSpawn": 0,
       "onDestroy": 0,
@@ -56,7 +56,7 @@
       "onUnk3": 0
     },
     {
-      "name": "Metal Tornado",
+      "name": "New Item",
       "states": [],
       "onSpawn": 0,
       "onDestroy": 0,
@@ -77,61 +77,61 @@
   "boneDefinitions": {
     "lookup": {
       "trimmedSize": 12,
-      "boneCount": 61,
+      "boneCount": 68,
       "top": 0,
-      "trans": 1,
-      "xRot": 2,
-      "yRot": 3,
-      "hip": 4,
-      "waist": 5,
-      "lLegA": 47,
-      "lLeg": 48,
-      "lKnee": 49,
-      "lFootA": 50,
-      "lFoot": 51,
-      "rLegA": 53,
-      "rLeg": 54,
-      "rKnee": 55,
-      "rFootA": 56,
-      "rFoot": 57,
-      "waistB": 255,
-      "bust": 255,
-      "lClavicle": 6,
-      "lShoulderA": 7,
-      "lShoulder": 8,
-      "lArm": 9,
-      "lHand": 10,
-      "lIndex1": 11,
-      "lIndex2": 12,
-      "lMiddle1": 13,
-      "lMiddle2": 14,
-      "lRing1": 15,
-      "lRing2": 16,
-      "lPinky1": 17,
-      "lPinky2": 18,
-      "lHave": 255,
-      "lThumb1": 19,
-      "lThumb2": 20,
-      "neckN": 22,
-      "headN": 23,
-      "rClavicle": 29,
-      "rShoulderA": 30,
-      "rShoulder": 31,
-      "rArm": 32,
-      "rHand": 33,
-      "rIndex1": 34,
-      "rIndex2": 35,
-      "rMiddle1": 36,
-      "rMiddle2": 37,
-      "rRing1": 38,
-      "rRing2": 39,
-      "rPinky1": 40,
-      "rPinky2": 41,
-      "rHave": 42,
-      "rThumb1": 43,
-      "rThumb2": 44,
-      "throw": 59,
-      "extra": 60
+      "trans": 3,
+      "xRot": 4,
+      "yRot": 5,
+      "hip": 6,
+      "waist": 16,
+      "lLegA": 7,
+      "lLeg": 7,
+      "lKnee": 8,
+      "lFootA": 9,
+      "lFoot": 9,
+      "rLegA": 11,
+      "rLeg": 11,
+      "rKnee": 12,
+      "rFootA": 13,
+      "rFoot": 13,
+      "waistB": 6,
+      "bust": 17,
+      "lClavicle": 19,
+      "lShoulderA": 19,
+      "lShoulder": 19,
+      "lArm": 20,
+      "lHand": 21,
+      "lIndex1": 22,
+      "lIndex2": 23,
+      "lMiddle1": 24,
+      "lMiddle2": 25,
+      "lRing1": 26,
+      "lRing2": 27,
+      "lPinky1": 28,
+      "lPinky2": 29,
+      "lHave": 30,
+      "lThumb1": 31,
+      "lThumb2": 32,
+      "neckN": 34,
+      "headN": 37,
+      "rClavicle": 50,
+      "rShoulderA": 50,
+      "rShoulder": 50,
+      "rArm": 51,
+      "rHand": 52,
+      "rIndex1": 53,
+      "rIndex2": 54,
+      "rMiddle1": 55,
+      "rMiddle2": 56,
+      "rRing1": 57,
+      "rRing2": 58,
+      "rPinky1": 59,
+      "rPinky2": 60,
+      "rHave": 61,
+      "rThumb1": 62,
+      "rThumb2": 63,
+      "throw": 67,
+      "extra": 255
     },
     "ext": []
   },
@@ -140,140 +140,104 @@
     "resultBannerBig": "rst\\big_banner_041",
     "resultSmallBig": "rst\\small_banner_041"
   },
-  "redCostumeIndex": 2,
-  "blueCostumeIndex": 3,
-  "greenCostumeIndex": 4,
+  "redCostumeIndex": 1,
+  "blueCostumeIndex": 0,
+  "greenCostumeIndex": 2,
   "costumes": [
     {
-      "name": "Neutral",
+      "name": "Base",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMNr.dat",
-        "jointSymbol": "PlyMetalMario5K_Share_joint",
-        "materialSymbol": "PlyMetalMario5K_Share_matanim_joint"
+        "fileName": "PlScNr.dat",
+        "jointSymbol": "PlySonic5K_Share_joint",
+        "materialSymbol": "PlySonic5K_Share_matanim_joint"
       },
-      "icon": "icons\\ft_286",
-      "csp": "csp\\csp_279"
-    },
-    {
-      "name": "Yellow",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlMMYe.dat",
-        "jointSymbol": "PlyMetalMario5KYe_Share_joint",
-        "materialSymbol": "PlyMetalMario5KYe_Share_matanim_joint"
-      },
-      "icon": "icons\\ft_287",
-      "csp": "csp\\csp_280"
+      "icon": "icons\\ft_275",
+      "csp": "csp\\csp_269"
     },
     {
       "name": "Red",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMRe.dat",
-        "jointSymbol": "PlyMetalMario5KRe_Share_joint",
-        "materialSymbol": "PlyMetalMario5KRe_Share_matanim_joint"
+        "fileName": "PlScRe.dat",
+        "jointSymbol": "PlySonic5KRe_Share_joint",
+        "materialSymbol": "PlySonic5KRe_Share_matanim_joint"
       },
-      "icon": "icons\\ft_288",
-      "csp": "csp\\csp_281"
-    },
-    {
-      "name": "Blue",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlMMBu.dat",
-        "jointSymbol": "PlyMetalMario5KBu_Share_joint",
-        "materialSymbol": "PlyMetalMario5KBu_Share_matanim_joint"
-      },
-      "icon": "icons\\ft_289",
-      "csp": "csp\\csp_282"
+      "icon": "icons\\ft_276",
+      "csp": "csp\\csp_270"
     },
     {
       "name": "Green",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMGr.dat",
-        "jointSymbol": "PlyMetalMario5KGr_Share_joint",
-        "materialSymbol": "PlyMetalMario5KGr_Share_matanim_joint"
+        "fileName": "PlScGr.dat",
+        "jointSymbol": "PlySonic5KGr_Share_joint",
+        "materialSymbol": "PlySonic5KGr_Share_matanim_joint"
       },
-      "icon": "icons\\ft_290",
-      "csp": "csp\\csp_283"
+      "icon": "icons\\ft_277",
+      "csp": "csp\\csp_271"
     },
     {
-      "name": "Cyan",
+      "name": "White",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMCy.dat",
-        "jointSymbol": "PlyMetalMario5KCy_Share_joint",
-        "materialSymbol": "PlyMetalMario5KCy_Share_matanim_joint"
+        "fileName": "PlScWh.dat",
+        "jointSymbol": "PlySonic5KWh_Share_joint",
+        "materialSymbol": "PlySonic5KWh_Share_matanim_joint"
       },
-      "icon": "icons\\ft_291",
-      "csp": "csp\\csp_284"
+      "icon": "icons\\ft_278",
+      "csp": "csp\\csp_272"
     },
     {
-      "name": "Purple",
+      "name": "Black",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMPu.dat",
-        "jointSymbol": "PlyMetalMario5KPu_Share_joint",
-        "materialSymbol": "PlyMetalMario5KPu_Share_matanim_joint"
+        "fileName": "PlScBk.dat",
+        "jointSymbol": "PlySonic5KGr_Share_joint",
+        "materialSymbol": "PlySonic5KGr_Share_matanim_joint"
       },
-      "icon": "icons\\ft_292",
-      "csp": "csp\\csp_285"
+      "icon": "icons\\ft_279",
+      "csp": "csp\\csp_273"
     },
     {
-      "name": "Copper",
+      "name": "Werehog",
       "colorSmashGroup": 0,
       "file": {
         "visibilityIndex": 0,
-        "fileName": "PlMMCr.dat",
-        "jointSymbol": "PlyMetalMario5KCr_Share_joint",
-        "materialSymbol": "PlyMetalMario5KCr_Share_matanim_joint"
+        "fileName": "PlScWe.dat",
+        "jointSymbol": "PlySonic5KRe_Share_joint",
+        "materialSymbol": "PlySonic5KRe_Share_matanim_joint"
       },
-      "icon": "icons\\ft_293",
-      "csp": "csp\\csp_286"
-    },
-    {
-      "name": "Rainbow",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlMMRb.dat",
-        "jointSymbol": "PlyMetalMario5KRb_Share_joint",
-        "materialSymbol": "PlyMetalMario5KRb_Share_matanim_joint"
-      },
-      "icon": "icons\\ft_294",
-      "csp": "csp\\csp_287"
+      "icon": "icons\\ft_404",
+      "csp": "csp\\csp_398"
     }
   ],
   "kirbyCostumes": [],
   "hasKirbyCostumes": false,
   "gaWData": null,
   "files": {
-    "fighterDataPath": "PlMM.dat",
-    "fighterDataSymbol": "ftDataMetalMario",
-    "animFile": "PlMMAJ.dat",
-    "animCount": 304,
-    "demoFile": "PlMMDViWaitAJ.dat",
-    "demoWait": "ftDemoViWaitMetalMario",
-    "demoResult": "ftDemoResultMetalMario",
-    "demoIntro": "ftDemoIntroMetalMario",
-    "demoEnding": "ftDemoEndingMotionFileMario",
-    "rstAnimFile": "GmRstMMM.dat",
+    "fighterDataPath": "PlSc.dat",
+    "fighterDataSymbol": "ftDataBSonic",
+    "animFile": "PlScAJ.dat",
+    "animCount": 322,
+    "demoFile": "PlScDViWaitAJ.dat",
+    "demoWait": "ftDemoViWaitMotionFileBSonic",
+    "demoResult": "ftDemoResultMotionFileBSonic",
+    "demoIntro": "ftDemoIntroBSonic",
+    "demoEnding": "ftDemoEndingBSonic",
+    "rstAnimFile": "GmRstMSc.dat",
     "rstAnimCount": 16,
-    "effectFile": "EfMrData.dat",
-    "effectSymbol": "effMarioDataTable",
-    "kirbyCapFileName": "PlKbCpMr.dat",
-    "kirbyCapSymbol": "ftDataKirbyCopyMario",
-    "kirbyEffectFile": "EfKbMr.dat",
-    "kirbyEffectSymbol": "effKirbyMarioDataTable"
+    "effectFile": "EfScData.dat",
+    "effectSymbol": "effSonicDataTable",
+    "kirbyCapFileName": "",
+    "kirbyCapSymbol": "",
+    "kirbyEffectFile": "",
+    "kirbyEffectSymbol": ""
   },
   "functions": {
     "version": 0,
@@ -335,9 +299,9 @@
     "kirbyOnFrame": 0
   },
   "media": {
-    "endClassicFile": "GmRegendSimpleMario.thp",
-    "endAdventureFile": "GmRegendAdventureMario.thp",
-    "endAllStarFile": "GmRegendAllstarMario.thp",
-    "endMovieFile": "MvEndMario.mth"
+    "endClassicFile": "GmRegendSimpleSonic_001.thp",
+    "endAdventureFile": "GmRegendAdventureSonic_001.thp",
+    "endAllStarFile": "GmRegendAllstarSonic_001.thp",
+    "endMovieFile": "MvEndSonic_001.mth"
   }
 }

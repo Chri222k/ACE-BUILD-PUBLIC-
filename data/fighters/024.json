@@ -160,18 +160,6 @@
       },
       "icon": "icons\\ft_160",
       "csp": "csp\\csp_153"
-    },
-    {
-      "name": "Yellow",
-      "colorSmashGroup": 0,
-      "file": {
-        "visibilityIndex": 0,
-        "fileName": "PlGwNr.dat",
-        "jointSymbol": "PlyGamewatch5K_Share_joint",
-        "materialSymbol": null
-      },
-      "icon": "icons\\ft_319",
-      "csp": "csp\\csp_312"
     }
   ],
   "kirbyCostumes": [
@@ -242,10 +230,6 @@
       {
         "fill": 4293607343,
         "outline": 2164260863
-      },
-      {
-        "fill": 4286802469,
-        "outline": 2160375444
       }
     ]
   },
@@ -261,8 +245,8 @@
     "demoEnding": "ftDemoEndingMotionFileGamewatch",
     "rstAnimFile": "GmRstMGw.dat",
     "rstAnimCount": 14,
-    "effectFile": "",
-    "effectSymbol": "",
+    "effectFile": "EfWfData.dat",
+    "effectSymbol": "effWolfDataTable",
     "kirbyCapFileName": "PlKbCpGw.dat",
     "kirbyCapSymbol": "ftDataKirbyCopyGamewatch",
     "kirbyEffectFile": "",
