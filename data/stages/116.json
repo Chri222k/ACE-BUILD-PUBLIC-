@@ -1,0 +1,39 @@
+{
+  "name": "Metal Cavern PM",
+  "location": "",
+  "seriesID": 6,
+  "fileName": "GrCav.dat",
+  "additionalFiles": [],
+  "soundBank": 55,
+  "reverbValue1": 56,
+  "reverbValue2": 56,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
+  "onStageInit": 2149640092,
+  "onStageLoad": 2149640228,
+  "onStageGo": 2149640232,
+  "onGo": 2149640088,
+  "onUnknown2": 2149640268,
+  "onTouchLine": 2149643268,
+  "onUnknown4": 2149643276,
+  "unknownValue": 1,
+  "movingCollisionPointer": 0,
+  "movingCollisionCount": 0,
+  "items": [],
+  "playlist": {
+    "entries": [
+      {
+        "musicID": 98,
+        "chanceToPlay": 75
+      },
+      {
+        "musicID": 80,
+        "chanceToPlay": 50
+      }
+    ]
+  },
+  "assets": {
+    "icon": "sss\\icon_134",
+    "banner": "sss\\icon_135"
+  }
+}

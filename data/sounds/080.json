@@ -1,0 +1,125 @@
+{
+  "name": "LucasTDX",
+  "fileName": "lucastdx.ssm",
+  "groupFlags": 67240710,
+  "flags": 0,
+  "sounds": [
+    {
+      "name": "se_call_lucastdx"
+    },
+    {
+      "name": "v_lucastdx_atk1"
+    },
+    {
+      "name": "v_lucastdx_atk2"
+    },
+    {
+      "name": "v_lucastdx_atk3"
+    },
+    {
+      "name": "v_lucastdx_atk4"
+    },
+    {
+      "name": "v_lucastdx_atk5"
+    },
+    {
+      "name": "v_lucastdx_gake"
+    },
+    {
+      "name": "v_lucastdx_hosikie"
+    },
+    {
+      "name": "v_lucastdx_hura"
+    },
+    {
+      "name": "v_lucastdx_huttobi1"
+    },
+    {
+      "name": "v_lucastdx_huttobi2"
+    },
+    {
+      "name": "v_lucastdx_motiage"
+    },
+    {
+      "name": "v_lucastdx_nemuru"
+    },
+    {
+      "name": "v_lucastdx_otto"
+    },
+    {
+      "name": "v_lucastdx_pkfire"
+    },
+    {
+      "name": "v_lucastdx_pkfreeze"
+    },
+    {
+      "name": "v_lucastdx_pkjibaku"
+    },
+    {
+      "name": "v_lucastdx_pkthunder"
+    },
+    {
+      "name": "v_lucastdx_rakka4"
+    },
+    {
+      "name": "v_lucastdx_yarare"
+    },
+    {
+      "name": "se_lucastdx_pkfire"
+    },
+    {
+      "name": "se_lucastdx_pkfreeze_dasi"
+    },
+    {
+      "name": "se_lucastdx_explode"
+    },
+    {
+      "name": "se_lucastdx_pkthund"
+    },
+    {
+      "name": "se_lucastdx_magnet"
+    },
+    {
+      "name": "se_lucastdx_psi"
+    },
+    {
+      "name": "se_lucastdx_snake"
+    },
+    {
+      "name": "se_lucastdx_freeze"
+    },
+    {
+      "name": "se_lucastdx_pkfreeze_flush"
+    },
+    {
+      "name": "se_lucastdx_reflect"
+    },
+    {
+      "name": "se_lucastdx_attacks4"
+    },
+    {
+      "name": "se_lucastdx_bury"
+    },
+    {
+      "name": "se_kirby_pkfreeze"
+    },
+    {
+      "name": "se_lucastdx_psispin"
+    },
+    {
+      "name": "se_lucastdx_appeal2"
+    },
+    {
+      "name": "se_lucastdx_smashhi"
+    },
+    {
+      "name": "se_lucastdx_pop1"
+    },
+    {
+      "name": "se_lucastdx_pop2"
+    },
+    {
+      "name": "se_lucastdx_win"
+    }
+  ]
+}
