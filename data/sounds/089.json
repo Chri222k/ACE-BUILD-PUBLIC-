@@ -1,131 +1,107 @@
 {
-  "name": "Lucina",
-  "fileName": "lucina.ssm",
+  "name": "Knuckles",
+  "fileName": "knuckles.ssm",
   "groupFlags": 67240711,
-  "flags": 1,
+  "flags": 0,
   "sounds": [
     {
       "name": "se_call_bonus"
     },
     {
-      "name": "se_lucina_sw_demo_simau"
+      "name": "se_knuckles_jump0"
     },
     {
-      "name": "se_lucina_sw_demo_nuki"
+      "name": "se_knuckles_jump1"
     },
     {
-      "name": "se_lucina_sw_demo1"
+      "name": "se_knuckles_spin0"
     },
     {
-      "name": "se_lucina_sw_demo2"
+      "name": "se_knuckles_stop"
     },
     {
-      "name": "se_lucina_sw_demo3"
+      "name": "se_knuckles_spring"
     },
     {
-      "name": "se_lucina_sw_demo4"
+      "name": "se_knuckles_Nshoot"
     },
     {
-      "name": "v_lucina_atk1"
+      "name": "se_knuckles_Nhit"
     },
     {
-      "name": "v_lucina_atk2"
+      "name": "v_knuckles_atk1"
     },
     {
-      "name": "v_lucina_atk3"
+      "name": "v_knuckles_atk2"
     },
     {
-      "name": "v_lucina_atk4"
+      "name": "v_knuckles_atk3"
     },
     {
-      "name": "v_lucina_atk5"
+      "name": "v_knuckles_atk4"
     },
     {
-      "name": "v_lucina_atk6"
+      "name": "v_knuckles_atk5"
     },
     {
-      "name": "v_lucina_atk7"
+      "name": "v_knuckles_gake"
     },
     {
-      "name": "v_lucina_future"
+      "name": "v_knuckles_hosikie"
     },
     {
-      "name": "v_lucina_count1"
+      "name": "v_knuckles_hura"
     },
     {
-      "name": "v_lucina_count2"
+      "name": "v_knuckles_escape"
     },
     {
-      "name": "v_lucina_gake"
+      "name": "v_knuckles_appeal"
     },
     {
-      "name": "v_lucina_hosikie"
+      "name": "v_knuckles_motiage"
     },
     {
-      "name": "v_lucina_hura"
+      "name": "v_knuckles_nemuru"
     },
     {
-      "name": "v_lucina_huttobi"
+      "name": "v_knuckles_nemuru2"
     },
     {
-      "name": "v_lucina_huttobi2"
+      "name": "v_knuckles_otto"
     },
     {
-      "name": "v_lucina_jump"
+      "name": "v_knuckles_rakka4"
     },
     {
-      "name": "v_lucina_father"
+      "name": "v_knuckles_win1"
     },
     {
-      "name": "v_lucina_neverdefeat"
+      "name": "v_knuckles_yarare"
     },
     {
-      "name": "v_lucina_comeatme"
+      "name": "v_knuckles_huttobi1"
     },
     {
-      "name": "v_lucina_motiage"
+      "name": "v_knuckles_huttobi2"
     },
     {
-      "name": "v_lucina_nemuru"
+      "name": "v_knuckles_kirby"
     },
     {
-      "name": "v_lucina_otto"
+      "name": "se_knuckles_cloop"
     },
     {
-      "name": "v_lucina_rakka4"
+      "name": "v_knuckles_win2"
     },
     {
-      "name": "v_lucina_shiedbreak"
+      "name": "v_knuckles_win3"
     },
     {
-      "name": "v_lucina_yarare"
+      "name": "v_knuckles_wins"
     },
     {
-      "name": "se_lucina_counter_kamae"
-    },
-    {
-      "name": "se_lucina_counter"
-    },
-    {
-      "name": "se_lucina_sbreak_tame"
-    },
-    {
-      "name": "se_lucina_sbreak"
-    },
-    {
-      "name": "se_lucina_dolphin"
-    },
-    {
-      "name": "se_lucina_sw_conbo1"
-    },
-    {
-      "name": "se_lucina_sw_conbo2"
-    },
-    {
-      "name": "se_lucina_sw_conbo3"
-    },
-    {
-      "name": "se_lucina_sw_conbo4"
+      "name": "v_knuckles_oraora"
     }
   ]
 }

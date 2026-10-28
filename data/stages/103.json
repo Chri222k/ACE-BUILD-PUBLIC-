@@ -1,21 +1,21 @@
 {
-  "name": "Edo Town",
+  "name": "Celestial Valley",
   "location": "",
-  "seriesID": 11,
-  "fileName": "GrEt.dat",
+  "seriesID": 5,
+  "fileName": "GrClv.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
-  "collisionMaterials": 2151407656,
-  "mapDescPointer": 2151577144,
-  "onStageInit": 2149648352,
-  "onStageLoad": 2149648516,
-  "onStageGo": 2149648520,
-  "onGo": 2149648348,
-  "onUnknown2": 2149648556,
-  "onTouchLine": 2149653664,
-  "onUnknown4": 2149653672,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
+  "onStageInit": 2149726312,
+  "onStageLoad": 2149726424,
+  "onStageGo": 2149726428,
+  "onGo": 2149726308,
+  "onUnknown2": 2149726464,
+  "onTouchLine": 2149727032,
+  "onUnknown4": 2149727040,
   "unknownValue": 1,
   "movingCollisionPointer": 0,
   "movingCollisionCount": 0,
@@ -23,25 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 158,
-        "chanceToPlay": 60
-      },
-      {
-        "musicID": 159,
+        "musicID": 175,
         "chanceToPlay": 50
-      },
-      {
-        "musicID": 160,
-        "chanceToPlay": 50
-      },
-      {
-        "musicID": 161,
-        "chanceToPlay": 40
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_108",
-    "banner": "sss\\icon_109"
+    "icon": "sss\\icon_118",
+    "banner": "sss\\icon_119"
   }
 }

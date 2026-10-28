@@ -1,8 +1,8 @@
 {
-  "name": "Castle Siege",
+  "name": "Crown Casino",
   "location": "",
-  "seriesID": 7,
-  "fileName": "GrAkTDX.dat",
+  "seriesID": 11,
+  "fileName": "GrCasino.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
@@ -23,13 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 1,
+        "musicID": 194,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_112",
-    "banner": "sss\\icon_113"
+    "icon": "sss\\icon_124",
+    "banner": "sss\\icon_125"
   }
 }

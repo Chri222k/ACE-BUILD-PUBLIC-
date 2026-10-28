@@ -556,179 +556,343 @@
     "fileName": "ghz2.hps"
   },
   {
-    "name": "Throw It All Away",
-    "fileName": "Throw It All Away.hps"
-  },
-  {
-    "name": "Vengeance is Mine",
-    "fileName": "Vengeance is Mine.hps"
-  },
-  {
-    "name": "Highway In The Sky",
-    "fileName": "Highway In The Sky.hps"
-  },
-  {
-    "name": "Live and Learn",
-    "fileName": "Live and Learn.hps"
-  },
-  {
-    "name": "Battle With Wario",
-    "fileName": "Battle With Wario.hps"
-  },
-  {
-    "name": "Wario\u0027s Castle",
-    "fileName": "Wario\u0027s Castle.hps"
-  },
-  {
-    "name": "Celestial Valley",
-    "fileName": "Celestial Valley.hps"
-  },
-  {
-    "name": "Piroli (DDR: Mario Mix)",
-    "fileName": "Piroli.hps"
-  },
-  {
-    "name": "Title Theme (Donkey Kong)",
-    "fileName": "Title Theme (Donkey Kong).hps"
-  },
-  {
-    "name": "Donkey Kong / DK Jr. Medley",
-    "fileName": "DK \u0026 DKJr Medley.hps"
-  },
-  {
-    "name": "Pikmin Main Theme",
-    "fileName": "Pikmin Main Theme.hps"
-  },
-  {
-    "name": "Garden of Hope",
-    "fileName": "Garden of Hope.hps"
-  },
-  {
-    "name": "Awakening Woods",
-    "fileName": "Awakening Wood.hps"
-  },
-  {
-    "name": "King of the Koopas",
-    "fileName": "King of the Koopas.hps"
-  },
-  {
-    "name": "Fight Against Koopa",
-    "fileName": "Fight Against Koopa.hps"
-  },
-  {
-    "name": "Burning Town",
-    "fileName": "Burning Town.hps"
-  },
-  {
-    "name": "Boss Battle (Shantae)",
-    "fileName": "Boss Battle (Shantae).hps"
-  },
-  {
-    "name": "Gerudo Valley (SR)",
-    "fileName": "Gerudo Valley (SR).hps"
-  },
-  {
-    "name": "Gerudo Valley (3DS)",
-    "fileName": "Gerudo Valley (3DS).hps"
-  },
-  {
-    "name": "Edo Castle Medley",
-    "fileName": "Edo Castle Medley.hps"
-  },
-  {
-    "name": "Gorgeous Musical Castle",
-    "fileName": "Gorgeous Musical Castle.hps"
-  },
-  {
-    "name": "Kai Highway",
-    "fileName": "Kai Highway.hps"
-  },
-  {
-    "name": "The Aloof Soldier",
-    "fileName": "The Aloof Soldier.hps"
-  },
-  {
-    "name": "Sector 1",
-    "fileName": "Sector 1.hps"
-  },
-  {
-    "name": "Vs.Serris",
-    "fileName": "Vs.Serris.hps"
-  },
-  {
-    "name": "Id (Purpose)",
-    "fileName": "Id (Purpose).hps"
-  },
-  {
-    "name": "Overworld (Yoshi\u0027s Island)",
-    "fileName": "Overworld (Yoshi\u0027s Island).hps"
-  },
-  {
-    "name": "Normal Battle",
-    "fileName": "Normal Battle.hps"
-  },
-  {
-    "name": "Cipher Peon Battle",
-    "fileName": "Cipher Peon Battle.hps"
-  },
-  {
-    "name": "Battle Mode - Battle 1",
-    "fileName": "Battle Mode - Battle 1.hps"
-  },
-  {
-    "name": "Bowser\u0027s Castle (SNES)",
-    "fileName": "Bowser\u0027s Castle (SNES).hps"
-  },
-  {
-    "name": "Vs. Giant Baby Bowser",
-    "fileName": "Vs. Giant Baby Bowser.hps"
-  },
-  {
-    "name": "Battle Against a Rising Star",
-    "fileName": "Battle Against a Rising Star.hps"
-  },
-  {
-    "name": "Pokey Means Business!",
-    "fileName": "Pokey Means Business!.hps"
-  },
-  {
-    "name": "Underground (Super Mario Land)",
-    "fileName": "Underground (Super Mario Land).hps"
-  },
-  {
-    "name": "New Pork City",
-    "fileName": "New Pork City.hps"
-  },
-  {
     "name": "Wario Fanfare",
-    "fileName": "Wario Fanfare.hps"
-  },
-  {
-    "name": "Bonus Fanfare",
-    "fileName": "Bonus Fanfare.hps"
+    "fileName": "ff_wario.hps"
   },
   {
     "name": "Street Fighter Fanfare",
-    "fileName": "Street Fighter Fanfare.hps"
+    "fileName": "ff_streetfighter.hps"
   },
   {
-    "name": "Spinning Bird (Street Fighter EX3)",
-    "fileName": "Spinning Bird (Street Fighter EX3).hps"
+    "name": "Mortal Kombat Fanfare",
+    "fileName": "ff_mortalkombat.hps"
   },
   {
-    "name": "Chun-Li\u0027s theme (Street Fighter Alpha 2)",
-    "fileName": "Chun-Li\u0027s theme (Street Fighter Alpha 2).hps"
+    "name": "Meta Knight Fanfare",
+    "fileName": "ff_metaknight.hps"
+  },
+  {
+    "name": "Bonus Character Fanfare",
+    "fileName": "ff_bonus.hps"
+  },
+  {
+    "name": "Throw It All Away",
+    "fileName": "throwallaway.hps"
+  },
+  {
+    "name": "Vengeance is Mine",
+    "fileName": "vengeancemine.hps"
+  },
+  {
+    "name": "Highway In The Sky",
+    "fileName": "highwayinthsky.hps"
+  },
+  {
+    "name": "Live and Learn",
+    "fileName": "livelearn.hps"
+  },
+  {
+    "name": "Pikmin Main Theme",
+    "fileName": "pikmintheme.hps"
+  },
+  {
+    "name": "Awakening Woods",
+    "fileName": "awakeningwoods.hps"
+  },
+  {
+    "name": "Garden of Hope",
+    "fileName": "gardenofhope.hps"
+  },
+  {
+    "name": "Stardust Speedway (Bad Future)",
+    "fileName": "stardustspeedbadfuture.hps"
+  },
+  {
+    "name": "Dracula\u0027s Castle",
+    "fileName": "draculacastle.hps"
+  },
+  {
+    "name": "Tragic Prince",
+    "fileName": "tragicprince.hps"
+  },
+  {
+    "name": "Angel Island (Sonic Mania)",
+    "fileName": "angelisland1.hps"
+  },
+  {
+    "name": "Angel Island Act 2 (Sonic 3)",
+    "fileName": "angelisland2.hps"
+  },
+  {
+    "name": "Unknown From M.E. Instrumental",
+    "fileName": "unknownmeinstrumental.hps"
+  },
+  {
+    "name": "Hydrocity Act 1",
+    "fileName": "hydrocity1.hps"
+  },
+  {
+    "name": "Hydrocity Act 2",
+    "fileName": "hydrocity2.hps"
   },
   {
     "name": "Vs. Legendary (RSE/ORAS)",
-    "fileName": "RSE Legendary.hps"
+    "fileName": "vslegendrse.hps"
+  },
+  {
+    "name": "Vs. Team Grunt (RSE/ORAS)",
+    "fileName": "vsgruntrse.hps"
   },
   {
     "name": "Vs. Team Admin (RSE/ORAS)",
-    "fileName": "RSE Team Admin.hps"
+    "fileName": "vsadminrse.hps"
   },
   {
-    "name": "Vs. Team Grunts (RSE/ORAS)",
-    "fileName": "RSE Team Grunt.hps"
+    "name": "Dark Meta Knight",
+    "fileName": "darkmetabattle.hps"
+  },
+  {
+    "name": "Galacta Knight",
+    "fileName": "galactaknighttheme.hps"
+  },
+  {
+    "name": "Aeon Hero",
+    "fileName": "galactaaeonherolightdark.hps"
+  },
+  {
+    "name": "Another Dimension",
+    "fileName": "anotherdimension.hps"
+  },
+  {
+    "name": "New Pork City",
+    "fileName": "newpork.hps"
+  },
+  {
+    "name": "Beat Block Galaxy",
+    "fileName": "beatblock.hps"
+  },
+  {
+    "name": "Beep Block Skyway",
+    "fileName": "beepblock.hps"
+  },
+  {
+    "name": "Burning Town",
+    "fileName": "sr_burntown.hps"
+  },
+  {
+    "name": "Boss Battle (Shantae)",
+    "fileName": "sr_shantaeboss.hps"
+  },
+  {
+    "name": "Bowser\u0027s Castle (Yoshi\u0027s Island)",
+    "fileName": "bowsercastleYI.hps"
+  },
+  {
+    "name": "Vs. Giant Baby Bowser",
+    "fileName": "bowserbossYI.hps"
+  },
+  {
+    "name": "Bowser\u0027s Castle",
+    "fileName": "airship.hps"
+  },
+  {
+    "name": "Ecruteak City",
+    "fileName": "burntow.hps"
+  },
+  {
+    "name": "Celestial Valley",
+    "fileName": "celestvalley.hps"
+  },
+  {
+    "name": "Fever (Smash Remix)",
+    "fileName": "sr_fever.hps"
+  },
+  {
+    "name": "Chill (Smash Remix)",
+    "fileName": "sr_chill.hps"
+  },
+  {
+    "name": "Normal Battle",
+    "fileName": "normalbattle.hps"
+  },
+  {
+    "name": "Cipher Peon",
+    "fileName": "cipherpeon.hps"
+  },
+  {
+    "name": "Battle Mode 1",
+    "fileName": "battlemode1.hps"
+  },
+  {
+    "name": "Title Theme (Donkey Kong)",
+    "fileName": "dktitletheme.hps"
+  },
+  {
+    "name": "DK/DK Jr. Medley",
+    "fileName": "dkjrmedley.hps"
+  },
+  {
+    "name": "Edo Castle Medley",
+    "fileName": "sr_edomedley.hps"
+  },
+  {
+    "name": "Gorgeous Musical Castle",
+    "fileName": "sr_musiccastle.hps"
+  },
+  {
+    "name": "Kai Highway",
+    "fileName": "sr_kaihighway.hps"
+  },
+  {
+    "name": "The Aloof Soldier",
+    "fileName": "sr_aloofsoldier.hps"
+  },
+  {
+    "name": "King of the Koopas",
+    "fileName": "kingkoopas.hps"
+  },
+  {
+    "name": "Fight Against Koopa",
+    "fileName": "koopafight.hps"
+  },
+  {
+    "name": "Id (Purpose)",
+    "fileName": "idpurpose.hps"
+  },
+  {
+    "name": "Gerudo Valley",
+    "fileName": "sr_gerudo.hps"
+  },
+  {
+    "name": "Overworld (Yoshi\u0027s Island)",
+    "fileName": "yoshioverworld.hps"
+  },
+  {
+    "name": "Wario Castle",
+    "fileName": "wahcastle.hps"
+  },
+  {
+    "name": "Battle With Wario",
+    "fileName": "wahbattle.hps"
+  },
+  {
+    "name": "We Are Confidence Man",
+    "fileName": "confidenceman.hps"
+  },
+  {
+    "name": "Wii Sports Resort",
+    "fileName": "wiisportsresort.hps"
+  },
+  {
+    "name": "Wii Sports",
+    "fileName": "wiisports.hps"
+  },
+  {
+    "name": "Cool Cool Mountain",
+    "fileName": "sr_coolmountain.hps"
+  },
+  {
+    "name": "Wing Cap",
+    "fileName": "sr_wingcap.hps"
+  },
+  {
+    "name": "1st Stage Medley",
+    "fileName": "kirby1ststagemedley.hps"
+  },
+  {
+    "name": "Gym Castle Champion (Stadium)",
+    "fileName": "pkstadim.hps"
+  },
+  {
+    "name": "Vs. Champion (Stadium 2)",
+    "fileName": "pkstadim2.hps"
+  },
+  {
+    "name": "Birabuto Kingdom",
+    "fileName": "birabuto.hps"
+  },
+  {
+    "name": "Chai Kingdom",
+    "fileName": "chaiking.hps"
+  },
+  {
+    "name": "Underground (Super Mario Land)",
+    "fileName": "mariolandunderground.hps"
+  },
+  {
+    "name": "Spinning Bird",
+    "fileName": "spinbirdex3.hps"
+  },
+  {
+    "name": "Chun-Li\u0027s Theme",
+    "fileName": "chun-lialpha2.hps"
+  },
+  {
+    "name": "The Courtyard \uFF08Deception Ver.\uFF09",
+    "fileName": "mkcourtyard.hps"
+  },
+  {
+    "name": "The Pit II \uFF08Mortal Kombat II\uFF09",
+    "fileName": "mk2thepit2.hps"
+  },
+  {
+    "name": "Living Forest \uFF08Mortal Kombat II\uFF09",
+    "fileName": "mk2livingforest.hps"
+  },
+  {
+    "name": "The Street \uFF08Mortal Kombat 3\uFF09",
+    "fileName": "mk3thestreet.hps"
+  },
+  {
+    "name": "The Subway \uFF08Mortal Kombat 3\uFF09",
+    "fileName": "mk3thesubway.hps"
+  },
+  {
+    "name": "The Screw \uFF08Mortal Kombat 4\uFF09",
+    "fileName": "mk4thescrew.hps"
+  },
+  {
+    "name": "Elder God \uFF08Mortal Kombat 4\uFF09",
+    "fileName": "mk4eldergod.hps"
+  },
+  {
+    "name": "Prison of Souls \uFF08MK Mythologies\uFF1A Sub\uFF0DZero\uFF09",
+    "fileName": "mkmszprisonofsouls.hps"
+  },
+  {
+    "name": "Techno Syndrome \uFF08Little V Mills Cover\uFF09",
+    "fileName": "mkthemecover.hps"
+  },
+  {
+    "name": "Ganondorf Battle",
+    "fileName": "sr_ganonbattle.hps"
+  },
+  {
+    "name": "Ganon Medley",
+    "fileName": "sr_ganonmedley.hps"
+  },
+  {
+    "name": "Mad Monster Mansion",
+    "fileName": "sr_madmonster.hps"
+  },
+  {
+    "name": "Dire Dire Docks",
+    "fileName": "sr_diredocks.hps"
+  },
+  {
+    "name": "Ryu\u0027s Theme",
+    "fileName": "ryutheme3d0.hps"
+  },
+  {
+    "name": "WarioWare, Inc.",
+    "fileName": "wahwareinc.hps"
+  },
+  {
+    "name": "Sector 1",
+    "fileName": "sector1.hps"
+  },
+  {
+    "name": "Vs. Serris",
+    "fileName": "serrisfight.hps"
   }
 ]

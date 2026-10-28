@@ -1,131 +1,125 @@
 {
-  "name": "Lucina",
-  "fileName": "lucina.ssm",
-  "groupFlags": 67240711,
-  "flags": 1,
+  "name": "Ninten",
+  "fileName": "ninten.ssm",
+  "groupFlags": 67240710,
+  "flags": 0,
   "sounds": [
     {
-      "name": "se_call_bonus"
+      "name": "se_call_lucas"
     },
     {
-      "name": "se_lucina_sw_demo_simau"
+      "name": "v_lucas_atk1"
     },
     {
-      "name": "se_lucina_sw_demo_nuki"
+      "name": "v_lucas_atk2"
     },
     {
-      "name": "se_lucina_sw_demo1"
+      "name": "v_lucas_atk3"
     },
     {
-      "name": "se_lucina_sw_demo2"
+      "name": "v_lucas_atk4"
     },
     {
-      "name": "se_lucina_sw_demo3"
+      "name": "v_lucas_atk5"
     },
     {
-      "name": "se_lucina_sw_demo4"
+      "name": "v_lucas_gake"
     },
     {
-      "name": "v_lucina_atk1"
+      "name": "v_lucas_hosikie"
     },
     {
-      "name": "v_lucina_atk2"
+      "name": "v_lucas_hura"
     },
     {
-      "name": "v_lucina_atk3"
+      "name": "v_lucas_huttobi1"
     },
     {
-      "name": "v_lucina_atk4"
+      "name": "v_lucas_huttobi2"
     },
     {
-      "name": "v_lucina_atk5"
+      "name": "v_lucas_motiage"
     },
     {
-      "name": "v_lucina_atk6"
+      "name": "v_lucas_nemuru"
     },
     {
-      "name": "v_lucina_atk7"
+      "name": "v_lucas_otto"
     },
     {
-      "name": "v_lucina_future"
+      "name": "v_lucas_cough"
     },
     {
-      "name": "v_lucina_count1"
+      "name": "v_lucas_pkfreeze"
     },
     {
-      "name": "v_lucina_count2"
+      "name": "v_lucas_pkjibaku"
     },
     {
-      "name": "v_lucina_gake"
+      "name": "v_lucas_pull"
     },
     {
-      "name": "v_lucina_hosikie"
+      "name": "v_lucas_rakka4"
     },
     {
-      "name": "v_lucina_hura"
+      "name": "v_lucas_yarare"
     },
     {
-      "name": "v_lucina_huttobi"
+      "name": "se_lucas_4D"
     },
     {
-      "name": "v_lucina_huttobi2"
+      "name": "se_lucas_pkfreeze_dasi"
     },
     {
-      "name": "v_lucina_jump"
+      "name": "se_lucas_explode"
     },
     {
-      "name": "v_lucina_father"
+      "name": "se_lucas_pkthund"
     },
     {
-      "name": "v_lucina_neverdefeat"
+      "name": "se_lucas_magnet"
     },
     {
-      "name": "v_lucina_comeatme"
+      "name": "se_lucas_psi"
     },
     {
-      "name": "v_lucina_motiage"
+      "name": "se_lucas_snake"
     },
     {
-      "name": "v_lucina_nemuru"
+      "name": "se_lucas_freeze"
     },
     {
-      "name": "v_lucina_otto"
+      "name": "se_lucas_pkfreeze_flush"
     },
     {
-      "name": "v_lucina_rakka4"
+      "name": "se_lucas_reflect"
     },
     {
-      "name": "v_lucina_shiedbreak"
+      "name": "se_lucas_attacks4"
     },
     {
-      "name": "v_lucina_yarare"
+      "name": "se_lucas_bury"
     },
     {
-      "name": "se_lucina_counter_kamae"
+      "name": "se_kirby_pkfreeze"
     },
     {
-      "name": "se_lucina_counter"
+      "name": "se_lucas_psispin"
     },
     {
-      "name": "se_lucina_sbreak_tame"
+      "name": "se_lucas_appeal2"
     },
     {
-      "name": "se_lucina_sbreak"
+      "name": "se_lucas_smashhi"
     },
     {
-      "name": "se_lucina_dolphin"
+      "name": "se_lucas_pop1"
     },
     {
-      "name": "se_lucina_sw_conbo1"
+      "name": "se_lucas_pop2"
     },
     {
-      "name": "se_lucina_sw_conbo2"
-    },
-    {
-      "name": "se_lucina_sw_conbo3"
-    },
-    {
-      "name": "se_lucina_sw_conbo4"
+      "name": "se_lucas_win"
     }
   ]
 }

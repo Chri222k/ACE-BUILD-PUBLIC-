@@ -1,8 +1,8 @@
 {
-  "name": "Arena Ferox",
-  "location": "",
-  "seriesID": 7,
-  "fileName": "GrAr.dat",
+  "name": "Halcandra Arena",
+  "location": "Halcandra",
+  "seriesID": 5,
+  "fileName": "GrHa.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
@@ -23,13 +23,13 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 164,
+        "musicID": 165,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_124",
-    "banner": "sss\\icon_125"
+    "icon": "sss\\icon_140",
+    "banner": "sss\\icon_141"
   }
 }

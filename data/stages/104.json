@@ -1,14 +1,14 @@
 {
-  "name": "Gerudo Valley",
-  "location": "",
-  "seriesID": 11,
-  "fileName": "GrGv.dat",
+  "name": "Cool Cool Mountain",
+  "location": "Snow World",
+  "seriesID": 6,
+  "fileName": "GrCcm.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
-  "collisionMaterials": 2151407656,
-  "mapDescPointer": 2151577144,
+  "collisionMaterials": 2151408856,
+  "mapDescPointer": 2151573128,
   "onStageInit": 2149648352,
   "onStageLoad": 2149648516,
   "onStageGo": 2149648520,
@@ -23,17 +23,17 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 156,
-        "chanceToPlay": 75
+        "musicID": 197,
+        "chanceToPlay": 50
       },
       {
-        "musicID": 157,
+        "musicID": 198,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_110",
-    "banner": "sss\\icon_111"
+    "icon": "sss\\icon_122",
+    "banner": "sss\\icon_123"
   }
 }

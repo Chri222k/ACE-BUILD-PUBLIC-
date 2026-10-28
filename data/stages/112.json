@@ -1,8 +1,8 @@
 {
-  "name": "Yoshi\u0027s Forest",
-  "location": "Yoshi\u0027s Island",
-  "seriesID": 12,
-  "fileName": "GrYf.dat",
+  "name": "Hydrocity",
+  "location": "Angel Island",
+  "seriesID": 17,
+  "fileName": "GrHc.dat",
   "additionalFiles": [],
   "soundBank": 55,
   "reverbValue1": 56,
@@ -23,13 +23,17 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 165,
+        "musicID": 157,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 158,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_126",
-    "banner": "sss\\icon_127"
+    "icon": "sss\\icon_142",
+    "banner": "sss\\icon_143"
   }
 }

@@ -1,21 +1,21 @@
 {
-  "name": "Realgam Colosseum",
+  "name": "Metal Cavern PM",
   "location": "",
-  "seriesID": 9,
-  "fileName": "GrColosseum.dat",
+  "seriesID": 6,
+  "fileName": "GrCav.dat",
   "additionalFiles": [],
   "soundBank": 55,
-  "reverbValue1": 1,
-  "reverbValue2": 1,
-  "collisionMaterials": 2151409496,
-  "mapDescPointer": 2151579040,
-  "onStageInit": 2149726312,
-  "onStageLoad": 2149726424,
-  "onStageGo": 2149726428,
-  "onGo": 2149726308,
-  "onUnknown2": 2149726464,
-  "onTouchLine": 2149727032,
-  "onUnknown4": 2149727040,
+  "reverbValue1": 56,
+  "reverbValue2": 56,
+  "collisionMaterials": 2151411416,
+  "mapDescPointer": 2151584952,
+  "onStageInit": 2149640092,
+  "onStageLoad": 2149640228,
+  "onStageGo": 2149640232,
+  "onGo": 2149640088,
+  "onUnknown2": 2149640268,
+  "onTouchLine": 2149643268,
+  "onUnknown4": 2149643276,
   "unknownValue": 1,
   "movingCollisionPointer": 0,
   "movingCollisionCount": 0,
@@ -23,21 +23,17 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 166,
+        "musicID": 80,
         "chanceToPlay": 50
       },
       {
-        "musicID": 167,
-        "chanceToPlay": 50
-      },
-      {
-        "musicID": 168,
+        "musicID": 98,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_128",
-    "banner": "sss\\icon_129"
+    "icon": "sss\\icon_154",
+    "banner": "sss\\icon_155"
   }
 }

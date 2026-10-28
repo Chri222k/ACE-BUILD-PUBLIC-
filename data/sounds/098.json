@@ -1,0 +1,116 @@
+{
+  "name": "Liu Kang",
+  "fileName": "liu_kang.ssm",
+  "groupFlags": 67240708,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_bonus"
+    },
+    {
+      "name": "se_liukang_demo1"
+    },
+    {
+      "name": "v_liukang_win1"
+    },
+    {
+      "name": "v_liukang_win2"
+    },
+    {
+      "name": "v_liukang_attack1"
+    },
+    {
+      "name": "v_liukang_attack2"
+    },
+    {
+      "name": "v_liukang_attack3"
+    },
+    {
+      "name": "v_liukang_attack4"
+    },
+    {
+      "name": "v_liukang_attack5"
+    },
+    {
+      "name": "v_liukang_bicycle"
+    },
+    {
+      "name": "v_liukang_fkick1"
+    },
+    {
+      "name": "v_liukang_fist"
+    },
+    {
+      "name": "v_liukang_hosikie"
+    },
+    {
+      "name": "v_liukang_hura"
+    },
+    {
+      "name": "v_liukang_huttobi2"
+    },
+    {
+      "name": "v_liukang_huttobi"
+    },
+    {
+      "name": "v_luikang_jump"
+    },
+    {
+      "name": "v_liukang_motiage"
+    },
+    {
+      "name": "v_liukang_fkick2"
+    },
+    {
+      "name": "v_liukang_rakka4"
+    },
+    {
+      "name": "v_liukang_nemuru1"
+    },
+    {
+      "name": "v_liukang_nemuru2"
+    },
+    {
+      "name": "se_quanchi_finishhim"
+    },
+    {
+      "name": "se_danforden_toasty"
+    },
+    {
+      "name": "v_liukang_fkick3"
+    },
+    {
+      "name": "se_liukang_fireatk"
+    },
+    {
+      "name": "se_liukang_fpunch"
+    },
+    {
+      "name": "se_liukang_fdive"
+    },
+    {
+      "name": "se_quanchi_excellent"
+    },
+    {
+      "name": "se_quanchi_laugh"
+    },
+    {
+      "name": "se_quanchi_outstanding"
+    },
+    {
+      "name": "se_quanchi_superb"
+    },
+    {
+      "name": "se_quanchi_welldone"
+    },
+    {
+      "name": "v_liukang_appeal1"
+    },
+    {
+      "name": "v_liukang_appeal2"
+    },
+    {
+      "name": "v_liukang_win3"
+    }
+  ]
+}

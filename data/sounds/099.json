@@ -1,0 +1,119 @@
+{
+  "name": "Sub-Zero",
+  "fileName": "sub-zero.ssm",
+  "groupFlags": 67240708,
+  "flags": 1,
+  "sounds": [
+    {
+      "name": "se_call_bonus"
+    },
+    {
+      "name": "se_subzero_demo1"
+    },
+    {
+      "name": "v_subzero_win1"
+    },
+    {
+      "name": "v_subzero_appeal"
+    },
+    {
+      "name": "v_subzero_attack1"
+    },
+    {
+      "name": "v_subzero_attack2"
+    },
+    {
+      "name": "v_subzero_attack3"
+    },
+    {
+      "name": "v_subzero_attack4"
+    },
+    {
+      "name": "v_subzero_attack5"
+    },
+    {
+      "name": "v_subzero_heavy1"
+    },
+    {
+      "name": "v_subzero_heavy2"
+    },
+    {
+      "name": "v_subzero_heavy3"
+    },
+    {
+      "name": "v_subzero_hosikie"
+    },
+    {
+      "name": "v_subzero_hura"
+    },
+    {
+      "name": "v_subzero_huttobi2"
+    },
+    {
+      "name": "v_subzero_huttobi"
+    },
+    {
+      "name": "v_subzero_jump"
+    },
+    {
+      "name": "v_subzero_motiage"
+    },
+    {
+      "name": "v_subzero_fpunch"
+    },
+    {
+      "name": "v_subzero_rakka4"
+    },
+    {
+      "name": "v_subzero_nemuru1"
+    },
+    {
+      "name": "v_subzero_nemuru2"
+    },
+    {
+      "name": "v_subzero_shoulder1"
+    },
+    {
+      "name": "v_subzero_shoulder2"
+    },
+    {
+      "name": "v_subzero_shoulder3"
+    },
+    {
+      "name": "se_subzero_freeze"
+    },
+    {
+      "name": "se_subzero_shoulder"
+    },
+    {
+      "name": "se_subzero_shaker"
+    },
+    {
+      "name": "se_subzero_icestomp"
+    },
+    {
+      "name": "se_subzero_iceclone"
+    },
+    {
+      "name": "se_quanchi_excellent"
+    },
+    {
+      "name": "se_quanchi_laugh"
+    },
+    {
+      "name": "se_quanchi_outstanding"
+    },
+    {
+      "name": "se_quanchi_superb"
+    },
+    {
+      "name": "se_quanchi_welldone"
+    },
+    {
+      "name": "se_quanchi_finishhim"
+    },
+    {
+      "name": "se_danforden_frosty"
+    }
+  ]
+}

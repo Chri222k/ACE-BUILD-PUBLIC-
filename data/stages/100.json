@@ -1,10 +1,10 @@
 {
-  "name": "Wario\u0027s Castle",
+  "name": "Bowser\u0027s Castle",
   "location": "",
-  "seriesID": 18,
-  "fileName": "GrWarioCastle.dat",
+  "seriesID": 6,
+  "fileName": "GrKpCst.dat",
   "additionalFiles": [],
-  "soundBank": 84,
+  "soundBank": 55,
   "reverbValue1": 1,
   "reverbValue2": 1,
   "collisionMaterials": 2151411416,
@@ -23,17 +23,21 @@
   "playlist": {
     "entries": [
       {
-        "musicID": 144,
-        "chanceToPlay": 75
+        "musicID": 173,
+        "chanceToPlay": 50
       },
       {
-        "musicID": 143,
+        "musicID": 187,
+        "chanceToPlay": 50
+      },
+      {
+        "musicID": 188,
         "chanceToPlay": 50
       }
     ]
   },
   "assets": {
-    "icon": "sss\\icon_102",
-    "banner": "sss\\icon_103"
+    "icon": "sss\\icon_110",
+    "banner": "sss\\icon_111"
   }
 }

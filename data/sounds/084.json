@@ -1,20 +1,128 @@
 {
-  "name": "Wario\u0027s Castle SFX",
-  "fileName": "wcastle.ssm",
-  "groupFlags": 84017664,
+  "name": "Meta Knight",
+  "fileName": "metaknight.ssm",
+  "groupFlags": 67240705,
   "flags": 0,
   "sounds": [
     {
-      "name": "SFXst_wcastle_fallwater"
+      "name": "se_call_metaknight"
     },
     {
-      "name": "SFXst_wcastle_swim1"
+      "name": "v_metaknight_appeal"
     },
     {
-      "name": "SFXst_wcastle_swim2"
+      "name": "se_metaknight_machtornado"
     },
     {
-      "name": "SFXst_wcastle_river_ambi"
+      "name": "se_metaknight_shuttleloop"
+    },
+    {
+      "name": "v_metaknight_shuttleloop"
+    },
+    {
+      "name": "v_metaknight_dimensionalcape"
+    },
+    {
+      "name": "v_metaknight_drillrush"
+    },
+    {
+      "name": "se_metaknight_drillrush"
+    },
+    {
+      "name": "se_metaknight_dimensionalcape"
+    },
+    {
+      "name": "v_metaknight_atk1"
+    },
+    {
+      "name": "v_metaknight_atk2"
+    },
+    {
+      "name": "v_metaknight_atk3"
+    },
+    {
+      "name": "v_metaknight_atk4"
+    },
+    {
+      "name": "se_metaknight_dash/dodge"
+    },
+    {
+      "name": "se_metaknight_run"
+    },
+    {
+      "name": "v_metaknight_hosikie"
+    },
+    {
+      "name": "v_metaknight_jump"
+    },
+    {
+      "name": "v_metaknight_jump2"
+    },
+    {
+      "name": "se_metaknight_runbrake"
+    },
+    {
+      "name": "se_metaknight_crouch"
+    },
+    {
+      "name": "v_metaknight_motiage"
+    },
+    {
+      "name": "v_metaknight_hura"
+    },
+    {
+      "name": "v_metaknight_nemuru"
+    },
+    {
+      "name": "v_metaknight_otto"
+    },
+    {
+      "name": "v_metaknight_rakka4"
+    },
+    {
+      "name": "se_metaknight_crouchrv"
+    },
+    {
+      "name": "se_metaknight_landing"
+    },
+    {
+      "name": "v_metaknight_gake"
+    },
+    {
+      "name": "se_metaknight_dashatk"
+    },
+    {
+      "name": "se_metaknight_swing1"
+    },
+    {
+      "name": "se_metaknight_swing2"
+    },
+    {
+      "name": "se_metaknight_swing3"
+    },
+    {
+      "name": "se_metaknight_swing4"
+    },
+    {
+      "name": "v_metaknight_hyaku"
+    },
+    {
+      "name": "v_metaknight_huttobi"
+    },
+    {
+      "name": "v_metaknight_yarare"
+    },
+    {
+      "name": "v_metaknight_win1"
+    },
+    {
+      "name": "v_metaknight_win2"
+    },
+    {
+      "name": "v_metaknight_win3"
+    },
+    {
+      "name": "v_metaknight_win4"
     }
   ]
 }

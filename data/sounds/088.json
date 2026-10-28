@@ -1,125 +1,128 @@
 {
-  "name": "Ninten",
-  "fileName": "ninten.ssm",
-  "groupFlags": 67240710,
+  "name": "Metal Sonic",
+  "fileName": "metal_sonic.ssm",
+  "groupFlags": 67240711,
   "flags": 0,
   "sounds": [
     {
-      "name": "se_call_lucas"
+      "name": "se_call_bonus"
     },
     {
-      "name": "v_lucas_atk1"
+      "name": "se_metalsonic_jump0"
     },
     {
-      "name": "v_lucas_atk2"
+      "name": "se_metalsonic_jump1"
     },
     {
-      "name": "v_lucas_atk3"
+      "name": "se_metalsonic_side1"
     },
     {
-      "name": "v_lucas_atk4"
+      "name": "se_metalsonic_side2"
     },
     {
-      "name": "v_lucas_atk5"
+      "name": "se_metalsonic_stop"
     },
     {
-      "name": "v_lucas_gake"
+      "name": "se_metalsonic_black shield"
     },
     {
-      "name": "v_lucas_hosikie"
+      "name": "se_metalsonic_up b"
     },
     {
-      "name": "v_lucas_hura"
+      "name": "se_metalsonic_up b start"
     },
     {
-      "name": "v_lucas_huttobi1"
+      "name": "se_metalsonic_run"
     },
     {
-      "name": "v_lucas_huttobi2"
+      "name": "se_sonic_ring"
     },
     {
-      "name": "v_lucas_motiage"
+      "name": "v_metalsonic_atk1"
     },
     {
-      "name": "v_lucas_nemuru"
+      "name": "v_metalsonic_atk2"
     },
     {
-      "name": "v_lucas_otto"
+      "name": "v_metalsonic_atk3"
     },
     {
-      "name": "v_lucas_cough"
+      "name": "v_metalsonic_atk4"
     },
     {
-      "name": "v_lucas_pkfreeze"
+      "name": "v_metalsonic_atk5"
     },
     {
-      "name": "v_lucas_pkjibaku"
+      "name": "v_sonic_gake"
     },
     {
-      "name": "v_lucas_pull"
+      "name": "v_metalsonic_nair"
     },
     {
-      "name": "v_lucas_rakka4"
+      "name": "v_sonic_hosikie"
     },
     {
-      "name": "v_lucas_yarare"
+      "name": "v_sonic_hura"
     },
     {
-      "name": "se_lucas_4D"
+      "name": "v_metalsonic_dodge"
     },
     {
-      "name": "se_lucas_pkfreeze_dasi"
+      "name": "v_sonic_jump2"
     },
     {
-      "name": "se_lucas_explode"
+      "name": "v_metalsonic_appeal"
     },
     {
-      "name": "se_lucas_pkthund"
+      "name": "v_sonic_motiage"
     },
     {
-      "name": "se_lucas_magnet"
+      "name": "v_metalsonic_nemuru"
     },
     {
-      "name": "se_lucas_psi"
+      "name": "v_metalsonic_nemuru2"
     },
     {
-      "name": "se_lucas_snake"
+      "name": "v_metalsonic_otto"
     },
     {
-      "name": "se_lucas_freeze"
+      "name": "v_metalsonic_rakka4"
     },
     {
-      "name": "se_lucas_pkfreeze_flush"
+      "name": "v_metalsonic_win"
     },
     {
-      "name": "se_lucas_reflect"
+      "name": "v_metalsonic_yarare"
     },
     {
-      "name": "se_lucas_attacks4"
+      "name": "v_metalsonic_huttobi1"
     },
     {
-      "name": "se_lucas_bury"
+      "name": "v_metalsonic_huttobi2"
     },
     {
-      "name": "se_kirby_pkfreeze"
+      "name": "v_sonic_kirby"
     },
     {
-      "name": "se_lucas_psispin"
+      "name": "se_sonic_cloop"
     },
     {
-      "name": "se_lucas_appeal2"
+      "name": "se_sonic_chargeloop"
     },
     {
-      "name": "se_lucas_smashhi"
+      "name": "se_sonic_appealjump"
     },
     {
-      "name": "se_lucas_pop1"
+      "name": "v_metalsonic_lasercharge"
     },
     {
-      "name": "se_lucas_pop2"
+      "name": "v_metalsonic_laserover"
     },
     {
-      "name": "se_lucas_win"
+      "name": "v_metalsonic_laser"
+    },
+    {
+      "name": "v_metalsonic_wins"
     }
   ]
 }
